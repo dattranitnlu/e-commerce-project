@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="laptopweb:Web exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="laptopweb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="laptopweb" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
