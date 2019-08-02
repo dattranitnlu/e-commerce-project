@@ -7,13 +7,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d848c51d-d5dd-4ae8-bd71-69c3285ed92d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/addCategory.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/categoryManagement.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/editCategory.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/productsManagement.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/common/footer.jsp" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/catalina.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/catalina.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/listCategory.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/laptopweb/controller/AddCategoryServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/laptopweb/dao/ProductDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/addCategory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/addCategory.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/categoryManagement.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/categoryManagement.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebContent/common/menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/common/menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/editCategory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/editCategory.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/addCategory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/addCategory.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/categoryManagement.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/categoryManagement.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/common/menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/common/menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/editCategory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/editCategory.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
@@ -29,62 +40,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
+        <entry file="file://$PROJECT_DIR$/WebContent/editCategory.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+            <state relative-caret-position="108">
+              <caret line="24" column="69" lean-forward="true" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/categoryManagement.jsp">
+        <entry file="file://$PROJECT_DIR$/src/com/laptopweb/dao/CategoryDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="687">
-              <caret line="86" column="38" selection-start-line="86" selection-start-column="38" selection-end-line="86" selection-end-column="38" />
+            <state relative-caret-position="150">
+              <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WebContent/addCategory.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-              <folding>
-                <element signature="e#453#460#1#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/editCategory.jsp">
+        <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/EditCategoryServlet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/common/content.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1347">
-              <caret line="437" column="29" lean-forward="true" selection-start-line="437" selection-start-column="29" selection-end-line="437" selection-end-column="29" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/common/menu.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -92,26 +69,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/productsManagement.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="65" selection-start-column="65" selection-end-column="65" />
+            <state relative-caret-position="108">
+              <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/common/header.jsp">
+        <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/AddCategoryServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1425">
-              <caret line="174" column="22" selection-start-line="174" selection-start-column="22" selection-end-line="174" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/login.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+            <state relative-caret-position="254">
+              <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -122,6 +90,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -140,12 +109,17 @@
         <option value="$PROJECT_DIR$/WebContent/common/categorymanagement.jsp" />
         <option value="$PROJECT_DIR$/WebContent/common/categoryManagement.jsp" />
         <option value="$PROJECT_DIR$/WebContent/productsManagement.jsp" />
-        <option value="$PROJECT_DIR$/WebContent/common/menu.jsp" />
         <option value="$PROJECT_DIR$/WebContent/modalProductsInCategory.jsp" />
         <option value="$PROJECT_DIR$/WebContent/index.jsp" />
-        <option value="$PROJECT_DIR$/WebContent/editCategory.jsp" />
-        <option value="$PROJECT_DIR$/WebContent/categoryManagement.jsp" />
+        <option value="$PROJECT_DIR$/src/com/laptopweb/controller/AddCategoryServlet.java" />
         <option value="$PROJECT_DIR$/WebContent/addCategory.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/listCategory.jsp" />
+        <option value="$PROJECT_DIR$/src/com/laptopweb/controller/RedirectIndexServlet.java" />
+        <option value="$PROJECT_DIR$/WebContent/common/menu.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/categoryManagement.jsp" />
+        <option value="$PROJECT_DIR$/src/com/laptopweb/dao/CategoryDAO.java" />
+        <option value="$PROJECT_DIR$/WebContent/editCategory.jsp" />
+        <option value="$PROJECT_DIR$/src/com/laptopweb/controller/EditCategoryServlet.java" />
       </list>
     </option>
   </component>
@@ -156,25 +130,11 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/laptopweb.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/artifacts/laptopweb_Web_exploded.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/jsp_api.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/jstl_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_16.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -182,6 +142,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,22 +154,60 @@
             <path>
               <item name="laptopweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laptopweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laptopweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="connection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laptopweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laptopweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laptopweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
               <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laptopweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-8.0.16.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -215,12 +215,12 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\github\e-commerce-project\laptopweb\WebContent\WEB-INF\lib" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\github\e-commerce-project\laptopweb\WebContent\WEB-INF\lib" />
       <recent name="E:\github\e-commerce-project\laptopweb\WebContent" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\e-commerce-project\laptopweb\WebContent\WEB-INF\lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -324,26 +324,31 @@
       <updated>1564650563172</updated>
       <workItem from="1564650570141" duration="314000" />
       <workItem from="1564651124464" duration="8825000" />
+      <workItem from="1564667409295" duration="11105000" />
+      <workItem from="1564707076268" duration="1468000" />
+      <workItem from="1564718535846" duration="1316000" />
+      <workItem from="1564726264382" duration="3273000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9139000" />
+    <option name="totallyTimeSpent" value="26301000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15885022" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49343833" visible="true" weight="0.16792738" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.5065617" side_tool="true" visible="true" weight="0.16792738" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3764321" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -385,90 +390,111 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/common/footer.jsp" />
+    <entry file="file://$PROJECT_DIR$/WebContent/modalProductsInCategory.jsp" />
+    <entry file="file://$PROJECT_DIR$/WebContent/common/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3132">
+          <caret line="174" column="22" selection-start-line="174" selection-start-column="22" selection-end-line="174" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="180">
           <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/common/footer.jsp">
+    <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/RedirectIndexServlet.java" />
+    <entry file="file://$PROJECT_DIR$/WebContent/common/content.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/common/header.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="174" column="22" selection-start-line="174" selection-start-column="22" selection-end-line="174" selection-end-column="22" />
+        <state relative-caret-position="7866">
+          <caret line="437" column="29" selection-start-line="437" selection-start-column="29" selection-end-line="437" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/common/menu.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/productsManagement.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="65" selection-start-column="65" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/modalProductsInCategory.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding>
-            <element signature="e#391#398#1#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="504">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        <state relative-caret-position="324">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/common/content.jsp">
+    <entry file="file://$PROJECT_DIR$/WebContent/categoryManagement.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1347">
-          <caret line="437" column="29" lean-forward="true" selection-start-line="437" selection-start-column="29" selection-end-line="437" selection-end-column="29" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="366">
+          <caret line="102" column="67" selection-start-line="102" selection-start-column="67" selection-end-line="102" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/listCategory.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="35" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/laptopweb/dao/ProductDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/addCategory.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/servlet-api.jar!/javax/servlet/annotation/WebServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/editCategory.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="24" column="69" lean-forward="true" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/categoryManagement.jsp">
+    <entry file="file://$PROJECT_DIR$/WebContent/productsManagement.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="86" column="38" selection-start-line="86" selection-start-column="38" selection-end-line="86" selection-end-column="38" />
+        <state relative-caret-position="108">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/addCategory.jsp">
+    <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/AddCategoryServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-          <folding>
-            <element signature="e#453#460#1#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="254">
+          <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/laptopweb/dao/CategoryDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/EditCategoryServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
