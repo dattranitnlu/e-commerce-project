@@ -1,0 +1,1759 @@
+<!DOCTYPE html>
+<html>
+<head>
+                    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="robots" content="index, follow" />
+    <meta name="google-site-verification" content="6Xu_M3XvwNhgMmS4RG2zTl6xWPmUMECFnjLwcDw_1_I" />
+    <meta name="google-site-verification" content="UnT3sirUXrD2VB9drAjse2Wn3AopbIrUQCu8b6Pkn4s" />
+    
+    <meta content="Công Ty TNHH tin học Nghĩa Thư" name="copyright">
+    <meta content="Công Ty TNHH tin học Nghĩa Thư" name="author">
+    <title>HP Envy 17 I7/1TB/GF840 2G/17.3&quot; HD/Win 8.1 | laptopxachtay.com.vn</title>
+    
+  
+    <meta property="fb:app_id" content="501944326666406" />
+    <meta name='description' content='HP Envy 17-by0062cl I7/1TB/GF840 2G/17.3" HD/Win 8.1'/>
+    <meta name='keywords' content='HP Envy 17'/>
+    <meta property='og:title' content='HP Envy 17 I7/1TB/GF840 2G/17.3" HD/Win 8.1'/> 
+    <meta property='og:description' content='HP Envy 17-by0062cl I7/1TB/GF840 2G/17.3" HD/Win 8.1'/> 
+    <meta property='og:url' content='http://laptopxachtay.com.vn/may-tinh-xach-tay/hp-envy-17-i7-1tb-gf840-2g-17-3-hd-win-8-1-id34957.html' />
+    <meta property='og:image' content='http://laptopxachtay.com.vn/Images/products/34957_hp-envy-17-core-i7-5500u-2-4g-ram-12g-hdd-1tb-vga-gtx850-4g-17’fhd-win-8-1_34938_1.jpg?w=150&mode=max' />
+    <meta property="og:site_name" content="NtComputer" />
+    <meta property="og:type" content="website" />
+
+    <link href="/Content/css/base?v=0aAYPm_cc2Q52oKq514wuAmXUqy93YPEw8oZVxe3wYs1" rel="stylesheet"/>
+
+    
+    <link href="/Content/css/productdetail?v=_BkEVDvLWu_AsRgPlyu9f14IHCz9d1Td57DTygdMftQ1" rel="stylesheet"/>
+
+
+    <link rel="shortcut icon" href="/favicon.ico" />
+</head>
+<body ng-app="ntcomputer" ng-controller="shared.ctrl">
+    <!--
+        hieu ung Giang sinh 
+    -->
+    
+    <!---End hieu ung giang sinh-->
+    <div id="top-bar" class="">
+        <div class="container-fluid clearfix">
+
+            <div class="row col_half col_last left nobottommargin top_link_wrapper">
+
+                <!-- Top Links
+        ============================================= -->
+                <div class="top-links">
+                    <ul class="sf-js-enabled clearfix" style="touch-action: pan-y;" ng-cloak>
+                        <li class="sfHover" ng-repeat="item in Frontend_TopLinkHeaderLeft">
+                            <a ng-href="{{item.Link}}">
+                                <img ng-show="item.ImageURL!=null" ng-src="{{bindImage(item.ImageURL)}}" width="15">
+                                {{item.DisplayText}}
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </div><!-- .top-links end -->
+
+            </div>
+            <div class="col_half col_last fright nobottommargin top_link_wrapper">
+                
+                <!-- Top Links
+                ============================================= -->
+                <div class="top-links">
+                    <ul class="sf-js-enabled clearfix has-user-info" style="touch-action: pan-y;" ng-cloak>
+
+
+                        <li class="sfHover" ng-repeat="item in Frontend_TopLinkHeader">
+                            <a ng-href="{{item.Link}}">
+                                <img ng-show="item.ImageURL!=null" ng-src="{{bindImage(item.ImageURL)}}" width="15">
+                                {{item.DisplayText}}
+                            </a>
+                        </li>
+
+                        
+
+                    </ul>
+                </div><!-- .top-links end -->
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div id="menuHeader">
+        <a id="m-nav" class="navbar-toggle">
+
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+
+            <i class="icons m-nav-list-icon"></i>
+        </a>
+        <a ng-href="{{Frontend_Logo_logoHeader.Link}}" class="logo" ng-cloak><img ng-src="{{bindImage(Frontend_Logo_logoHeader.ImageURL)}}"></a>
+        <div class="search-box">
+            <input type="text" class="search-text-box tap-term" placeholder="Bạn muốn tìm gì?">
+            <button type="button" class="submit search-button button-search"><span>Tìm kiếm</span><i class="glyphicon glyphicon-search"></i></button>
+            <div class="asmr">
+                <ul class="lptmart-search-cate"></ul>
+                <ul class="lptmart-search-prod"></ul>
+            </div>
+        </div>
+        <div class="hotline-mobile">
+            <span ng-cloak><i class="fa fa-phone-square" aria-hidden="true"></i> {{Frontend_Header_hotline.DisplayText}}</span>
+        </div>
+        <div class="header-consulting">
+            <a class="top_hotline nopadding" ng-href="{{Frontend_Header_hotline.Link}}">
+                <img ng-src="{{bindImage(Frontend_Header_hotline.ImageURL)}}">
+                <span ng-cloak>{{Frontend_Header_hotline.DisplayText}}</span>
+            </a>
+
+        </div>
+
+    </div>
+
+    <div id="menuWrapper">
+        <div id="menuBox">
+
+
+            <ul id="menu" class="panel-group">
+                <li class="panel" data-active="1">
+                    <a class="panel" data-toggle="collapse" target="_self" data-parent="#menu" href="#collapse1">
+                        <span>
+                            <label><i class="laptop-icon"></i></label>
+                        </span>
+                        <label>Laptop</label>
+                    </a>
+                    <div class="clearfix"></div>
+
+                    <div id="collapse1" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <ul cat="1" class="list-group menu-item-list-mb"></ul>
+                        </div>
+                    </div>
+
+
+                </li>
+
+                <li class="panel" data-active="2">
+                    <a class="panel" data-toggle="collapse" target="_self" data-parent="#menu" href="#collapse2">
+                        <span>
+                            <label><i class="tablet-icon"></i></label>
+                        </span>
+                        <label>Tablet</label>
+                    </a>
+                    <div class="clearfix"></div>
+                    <div id="collapse2" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <ul cat="2" class="list-group menu-item-list-mb"></ul>
+                        </div>
+                    </div>
+
+                </li>
+                <li class="panel" data-active="3">
+                    <a class="panel" data-toggle="collapse" target="_self" data-parent="#menu" href="#collapse3">
+                        <span>
+                            <label><i class="game-icon"></i></label>
+                        </span>
+                        <label>Máy ảnh</label>
+                    </a>
+                    <div class="clearfix"></div>
+
+                    <div id="collapse3" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <ul cat="3" class="list-group menu-item-list-mb"></ul>
+                        </div>
+                    </div>
+
+                </li>
+                <li class="panel" data-active="4">
+                    <a class="panel" data-toggle="collapse" target="_self" data-parent="#menu" href="#collapse4">
+                        <span>
+                            <label><i class="phone-icon"></i></label>
+                        </span>
+                        <label>Apple</label>
+                    </a>
+                    <div class="clearfix"></div>
+
+                    <div id="collapse4" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <ul cat="4" class="list-group menu-item-list-mb"></ul>
+                        </div>
+                    </div>
+
+                </li>
+                <li class="panel" data-active="6">
+                    <a class="panel" data-toggle="collapse" target="_self" data-parent="#menu" href="#collapse6">
+                        <span>
+                            <label><i class="phone1-icon"></i></label>
+                        </span>
+                        <label>Điện thoại</label>
+                    </a>
+                    <div class="clearfix"></div>
+
+                    <div id="collapse6" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <ul cat="6" class="list-group menu-item-list-mb"></ul>
+                        </div>
+                    </div>
+
+                </li>
+                <li class="panel" data-active="8">
+                    <a class="panel" data-toggle="collapse" target="_self" data-parent="#menu" href="#collapse353">
+                        <span>
+                            <label><i class="pcomputer-icon"></i></label>
+                        </span>
+                        <label>Máy bộ PC</label>
+                    </a>
+                    <div class="clearfix"></div>
+
+                    <div id="collapse353" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <ul cat="8" class="list-group menu-item-list-mb"></ul>
+                        </div>
+                    </div>
+
+                </li>
+                <li class="panel" data-active="5">
+                    <a class="panel" data-toggle="collapse" target="_self" data-parent="#menu" href="#collapse5">
+                        <span>
+                            <label><i class="accessories-icon"></i></label>
+                        </span>
+                        <label>Phụ kiện</label>
+                    </a>
+                    <div class="clearfix"></div>
+
+                    <div id="collapse5" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <ul cat="5" class="list-group menu-item-list-mb"></ul>
+                        </div>
+                    </div>
+
+                </li>
+                <li class="panel" data-active="7">
+                    <a class="panel" data-toggle="collapse" target="_self" data-parent="#menu" href="#collapse7">
+                        <span>
+                            <label><i class="old-phone-icon"></i></label>
+                        </span>
+                        <label>Máy cũ</label>
+                    </a>
+                    <div class="clearfix"></div>
+
+                    <div id="collapse7" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <ul cat="7" class="list-group menu-item-list-mb"></ul>
+                        </div>
+                    </div>
+
+                </li>
+
+                <li class="" data-active="9">
+                    <a class="panel" href="/tin-tuc">
+                        <span>
+                            <label><i class="news-icon"></i></label>
+                        </span>
+                        <label>Tin tức</label>
+                    </a>
+                </li>
+                
+                
+            </ul>
+
+        </div>
+    </div>
+
+    <div class="wrapper page-news"> 
+        <header id="header">
+            
+            <div id="header-wrap"> 
+                <div class="container-fluid clearfix">
+                    <div class="row">
+                        <!--<div id="primary-menu-trigger"><i class="fa fa-bars"></i></div>-->
+                        <!-- Logo
+                        ============================================= -->
+
+                        <div id="logo" class="col-md-3 nopadding">
+                           
+                            <a ng-href="{{Frontend_Logo_logoHeader.Link}}" class="standard-logo" ng-cloak><img alt="Nghĩa thư computer" style="float:left;" ng-src="{{bindImage(Frontend_Logo_logoHeader.ImageURL)}}"></a>
+
+                        </div><!-- #logo end -->
+
+                        <div class="top_search col-md-9 col-xs-12">
+
+                            
+                            <form class="col-sm-8 form-inline nopadding nomargin">
+
+                                <input type="text" class="form-control col-md-8 search_input term" placeholder="Bạn muốn tìm gì?">
+                                <input class="button button-search" type="button" id="btnSearch" value="Tìm kiếm">
+
+                            </form>
+
+                            <div id="top-cart" class="top-cart-block col-md-1 nopadding">
+                                    <a href="javascript:void(0)" id="top-cart-trigger">
+                                        <img src="/Images/label/cart_bg.png"><span class="top_cart_qty">0 </span>
+                                    </a>
+
+
+                            </div>
+
+                            <a class="top_hotline col-sm-3 hidden-sm hidden-xs nopadding" ng-href="{{Frontend_Header_hotline.Link}}">
+                                <img ng-src="{{bindImage(Frontend_Header_hotline.ImageURL)}}">
+                                <span ng-cloak>{{Frontend_Header_hotline.DisplayText}}</span>
+                            </a>
+
+                        </div>
+
+                        <!-- #top-search end -->
+                        <!-- top link trigger --->
+                        <a href="#" id="top_link_trigger" class="hidden-lg hidden-md"><i class="fa fa-ellipsis-v"></i></a>
+
+                    </div>
+                </div> 
+            </div>
+            <div class="container-fluid clearfix top-menu">
+                <div class="lptmart-mainbox">
+                    <div class="row">
+                        
+
+                        <div class="menu clearfix">
+                            <div class="left-menu-bg">
+                                <h4 class="panel-title">
+                                    <a href="javascript:void(0)" class="">
+                                        <i class="fa fa-align-justify"></i>
+                                    DANH MỤC SẢN PHẨM <i class="fa fa-angle-right"></i></a>
+                                </h4>
+
+                            </div>
+                            <ul class="right">
+                                <li class="" data-active="1">
+                                    <a href="/may-tinh-xach-tay" title="Laptop">
+                                        <span>
+                                            <label><i class="laptop-icon"></i></label>
+                                        </span>
+                                        <label>Laptop</label>
+                                    </a>
+                                    <div class="sub-menu">
+                                        <div class="lptmart-nav-submenu clf">
+                                            <div class="lptmart-nsm-laptop">
+                                                <div class="lptmart-nsm-col lptmart-nsm-col40">
+                                                    <h3 class="lptmart-nsm-title">Hãng sản xuất</h3>
+                                                    <ul cat="1" class="lptmart-nsm-list lptmart-nsm-double"></ul>
+                                                </div>
+                                                <div class="lptmart-nsm-col lptmart-nsm-col40">
+                                                    <h3 class="lptmart-nsm-title">Mức giá</h3>
+                                                    <ul class="lptmart-nsm-list lptmart-nsm-double">
+                                                            <li><a href="/may-tinh-xach-tay/duoi-5-trieu-vct22" title="Dưới 5 triệu">Dưới 5 triệu</a></li>
+                                                            <li><a href="/may-tinh-xach-tay/tu-5-10-trieu-vct27" title="Từ 5 - 10 triệu">Từ 5 - 10 triệu</a></li>
+                                                            <li><a href="/may-tinh-xach-tay/tu-10-15-trieu-vct29" title="Từ 10 - 15 triệu">Từ 10 - 15 triệu</a></li>
+                                                            <li><a href="/may-tinh-xach-tay/tu-15-20-trieu-vct30" title="Từ 15 - 20 triệu">Từ 15 - 20 triệu</a></li>
+                                                            <li><a href="/may-tinh-xach-tay/tu-20-25-trieu-vct31" title="Từ 20 - 25 triệu">Từ 20 - 25 triệu</a></li>
+                                                            <li><a href="/may-tinh-xach-tay/tu-25-30-trieu-vct32" title="Từ 25 - 30 triệu">Từ 25 - 30 triệu</a></li>
+                                                            <li><a href="/may-tinh-xach-tay/tren-30-trieu-vct35" title="Tr&#234;n 30 triệu">Tr&#234;n 30 triệu</a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="" data-active="2">
+                                    <a href="/may-tinh-bang" title="Tablet">
+                                        <span>
+                                            <label><i class="tablet-icon"></i></label>
+                                        </span>
+                                        <label>Tablet</label>
+                                    </a>
+                                    <div class="sub-menu">
+                                        <div class="lptmart-nav-submenu clf">
+                                            <div class="lptmart-nsm-tablet">
+                                                <div class="lptmart-nsm-col lptmart-nsm-col40">
+                                                    <h3 class="lptmart-nsm-title">Hãng sản xuất</h3>
+                                                    <ul cat="2" class="lptmart-nsm-list lptmart-nsm-double"></ul>
+                                                </div>
+                                                <div class="lptmart-nsm-col lptmart-nsm-col40">
+                                                    <h3 class="lptmart-nsm-title">Mức giá</h3>
+                                                    <ul class="lptmart-nsm-list lptmart-nsm-double">
+                                                            <li><a href="/may-tinh-bang/duoi-5-trieu-vct22" title="Dưới 5 triệu">Dưới 5 triệu</a></li>
+                                                            <li><a href="/may-tinh-bang/tu-5-10-trieu-vct27" title="Từ 5 - 10 triệu">Từ 5 - 10 triệu</a></li>
+                                                            <li><a href="/may-tinh-bang/tu-10-15-trieu-vct29" title="Từ 10 - 15 triệu">Từ 10 - 15 triệu</a></li>
+                                                            <li><a href="/may-tinh-bang/tu-15-20-trieu-vct30" title="Từ 15 - 20 triệu">Từ 15 - 20 triệu</a></li>
+                                                            <li><a href="/may-tinh-bang/tu-20-25-trieu-vct31" title="Từ 20 - 25 triệu">Từ 20 - 25 triệu</a></li>
+                                                            <li><a href="/may-tinh-bang/tu-25-30-trieu-vct32" title="Từ 25 - 30 triệu">Từ 25 - 30 triệu</a></li>
+                                                            <li><a href="/may-tinh-bang/tren-30-trieu-vct35" title="Tr&#234;n 30 triệu">Tr&#234;n 30 triệu</a></li>
+                                                    </ul>
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="" data-active="3">
+                                    <a href="/may-anh" title="Máy ảnh">
+                                        <span>
+                                            <label><i class="game-icon"></i></label>
+                                        </span>
+                                        <label>Máy ảnh</label>
+                                    </a>
+                                    <div class="sub-menu">
+                                        <div class="lptmart-nav-submenu clf">
+                                            <div class="lptmart-nsm-apple">
+
+                                                <div class="lptmart-nsm-col lptmart-nsm-col40">
+                                                    <h3 class="lptmart-nsm-title">Dòng sản phẩm</h3>
+                                                    <ul cat="3" class="lptmart-nsm-list lptmart-nsm-double"></ul>
+                                                </div>
+                                                <div class="lptmart-nsm-col lptmart-nsm-col40">
+                                                    <h3 class="lptmart-nsm-title">Mức giá</h3>
+                                                    <ul class="lptmart-nsm-list lptmart-nsm-double">
+                                                            <li><a href="/may-anh/duoi-5-trieu-vct22" title="Dưới 5 triệu">Dưới 5 triệu</a></li>
+                                                            <li><a href="/may-anh/tu-5-10-trieu-vct27" title="Từ 5 - 10 triệu">Từ 5 - 10 triệu</a></li>
+                                                            <li><a href="/may-anh/tu-10-15-trieu-vct29" title="Từ 10 - 15 triệu">Từ 10 - 15 triệu</a></li>
+                                                            <li><a href="/may-anh/tu-15-20-trieu-vct30" title="Từ 15 - 20 triệu">Từ 15 - 20 triệu</a></li>
+                                                            <li><a href="/may-anh/tu-20-25-trieu-vct31" title="Từ 20 - 25 triệu">Từ 20 - 25 triệu</a></li>
+                                                            <li><a href="/may-anh/tu-25-30-trieu-vct32" title="Từ 25 - 30 triệu">Từ 25 - 30 triệu</a></li>
+                                                            <li><a href="/may-anh/tren-30-trieu-vct35" title="Tr&#234;n 30 triệu">Tr&#234;n 30 triệu</a></li>
+                                                    </ul>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="" data-active="4">
+                                    <a href="/apple" title="Apple">
+                                        <span>
+                                            <label><i class="phone-icon"></i></label>
+                                        </span>
+                                        <label>Apple</label>
+                                    </a>
+                                    <div class="sub-menu">
+                                        <div class="lptmart-nav-submenu clearfix">
+                                            <div class="lptmart-nsm-mobile">
+
+                                                <div class="lptmart-nsm-col lptmart-nsm-col50">
+                                                    <h3 class="lptmart-nsm-title">Dòng sản phẩm</h3>
+                                                    <ul cat="4" class="lptmart-nsm-list lptmart-nsm-double"></ul>
+                                                </div>
+                                                <div class="lptmart-nsm-col lptmart-nsm-col40">
+                                                    <h3 class="lptmart-nsm-title">Mức giá</h3>
+                                                    <ul class="lptmart-nsm-list lptmart-nsm-double">
+                                                            <li><a href="/apple/duoi-5-trieu-vct22" title="Dưới 5 triệu">Dưới 5 triệu</a></li>
+                                                            <li><a href="/apple/tu-5-10-trieu-vct27" title="Từ 5 - 10 triệu">Từ 5 - 10 triệu</a></li>
+                                                            <li><a href="/apple/tu-10-15-trieu-vct29" title="Từ 10 - 15 triệu">Từ 10 - 15 triệu</a></li>
+                                                            <li><a href="/apple/tu-15-20-trieu-vct30" title="Từ 15 - 20 triệu">Từ 15 - 20 triệu</a></li>
+                                                            <li><a href="/apple/tu-20-25-trieu-vct31" title="Từ 20 - 25 triệu">Từ 20 - 25 triệu</a></li>
+                                                            <li><a href="/apple/tu-25-30-trieu-vct32" title="Từ 25 - 30 triệu">Từ 25 - 30 triệu</a></li>
+                                                            <li><a href="/apple/tren-30-trieu-vct35" title="Tr&#234;n 30 triệu">Tr&#234;n 30 triệu</a></li>
+                                                    </ul>
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="" data-active="6">
+                                    <a href="/dien-thoai" title="Điện thoại">
+                                        <span>
+                                            <label><i class="phone1-icon"></i></label>
+                                        </span>
+                                        <label>Điện thoại</label>
+                                    </a>
+                                    <div class="sub-menu">
+                                        <div class="lptmart-nav-submenu clearfix">
+                                            <div class="lptmart-nsm-mobile">
+
+                                                <div class="lptmart-nsm-col lptmart-nsm-col50">
+                                                    <h3 class="lptmart-nsm-title">Dòng sản phẩm</h3>
+                                                    <ul cat="6" class="lptmart-nsm-list lptmart-nsm-double"></ul>
+                                                </div>
+                                                <div class="lptmart-nsm-col lptmart-nsm-col40">
+                                                    <h3 class="lptmart-nsm-title">Mức giá</h3>
+                                                    <ul class="lptmart-nsm-list lptmart-nsm-double">
+                                                            <li><a href="/dien-thoai/duoi-5-trieu-vct22" title="Dưới 5 triệu">Dưới 5 triệu</a></li>
+                                                            <li><a href="/dien-thoai/tu-5-10-trieu-vct27" title="Từ 5 - 10 triệu">Từ 5 - 10 triệu</a></li>
+                                                            <li><a href="/dien-thoai/tu-10-15-trieu-vct29" title="Từ 10 - 15 triệu">Từ 10 - 15 triệu</a></li>
+                                                            <li><a href="/dien-thoai/tu-15-20-trieu-vct30" title="Từ 15 - 20 triệu">Từ 15 - 20 triệu</a></li>
+                                                            <li><a href="/dien-thoai/tu-20-25-trieu-vct31" title="Từ 20 - 25 triệu">Từ 20 - 25 triệu</a></li>
+                                                            <li><a href="/dien-thoai/tu-25-30-trieu-vct32" title="Từ 25 - 30 triệu">Từ 25 - 30 triệu</a></li>
+                                                            <li><a href="/dien-thoai/tren-30-trieu-vct35" title="Tr&#234;n 30 triệu">Tr&#234;n 30 triệu</a></li>
+                                                    </ul>
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="" data-active="8">
+                                    <a href="/may-tinh-de-ban" title="Máy bộ PC">
+                                        <span>
+                                            <label><i class="pcomputer-icon"></i></label>
+                                        </span>
+                                        <label>Máy bộ PC</label>
+                                    </a>
+                                    <div class="sub-menu">
+                                        <div class="lptmart-nav-submenu clearfix">
+                                            <div class="lptmart-nsm-mobile">
+
+                                                <div class="lptmart-nsm-col lptmart-nsm-col50">
+                                                    <h3 class="lptmart-nsm-title">Hãng sản xuất</h3>
+                                                    <ul cat="8" class="lptmart-nsm-list lptmart-nsm-double"></ul>
+                                                </div>
+                                                <div class="lptmart-nsm-col lptmart-nsm-col40">
+                                                    <h3 class="lptmart-nsm-title">Mức giá</h3>
+                                                    <ul class="lptmart-nsm-list lptmart-nsm-double">
+                                                            <li><a href="/may-tinh-de-ban/duoi-5-trieu-vct22" title="Dưới 5 triệu">Dưới 5 triệu</a></li>
+                                                            <li><a href="/may-tinh-de-ban/tu-5-10-trieu-vct27" title="Từ 5 - 10 triệu">Từ 5 - 10 triệu</a></li>
+                                                            <li><a href="/may-tinh-de-ban/tu-10-15-trieu-vct29" title="Từ 10 - 15 triệu">Từ 10 - 15 triệu</a></li>
+                                                            <li><a href="/may-tinh-de-ban/tu-15-20-trieu-vct30" title="Từ 15 - 20 triệu">Từ 15 - 20 triệu</a></li>
+                                                            <li><a href="/may-tinh-de-ban/tu-20-25-trieu-vct31" title="Từ 20 - 25 triệu">Từ 20 - 25 triệu</a></li>
+                                                            <li><a href="/may-tinh-de-ban/tu-25-30-trieu-vct32" title="Từ 25 - 30 triệu">Từ 25 - 30 triệu</a></li>
+                                                            <li><a href="/may-tinh-de-ban/tren-30-trieu-vct35" title="Tr&#234;n 30 triệu">Tr&#234;n 30 triệu</a></li>
+                                                    </ul>
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="" data-active="5">
+                                    <a href="/phu-kien" title="Phụ kiện">
+                                        <span>
+                                            <label><i class="accessories-icon"></i></label>
+                                        </span>
+                                        <label>Phụ kiện</label>
+                                    </a>
+                                    <div class="sub-menu">
+                                        <div class="lptmart-nav-submenu effect-tet-holiday clearfix">
+                                            <div class="lptmart-nsm-accessories">
+                                                <div class="lptmart-nsm-col">
+                                                    <h3 class="lptmart-nsm-title">Tất cả phụ kiện</h3>
+                                                    <ul cat="5" class="lptmart-nsm-list lptmart-nsm-double"></ul>
+                                                </div>
+
+                                                 
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="" data-active="7">
+                                    <a href="/may-cu" title="Máy cũ">
+                                        <span>
+                                            <label><i class="old-phone-icon"></i></label>
+                                        </span>
+                                        <label>Máy cũ</label>
+                                    </a>
+
+                                </li>
+                                <li class="" data-active="9">
+                                    <a href="/tin-tuc" title="Tin tức">
+                                        <span>
+                                            <label><i class="news-icon"></i></label>
+                                        </span>
+                                        <label>Tin tức</label>
+                                    </a>
+                                    <div class="sub-menu">
+                                        <div class="lptmart-nav-submenu clf">
+                                            <div class="lptmart-nsm-goodnews">
+                                                <div class="lptmart-nsm-col lptmart-nsm-col30">
+                                                    <h3 class="lptmart-nsm-title">Tin nội bộ</h3>
+                                                    <ul class="lptmart-nsm-list lptmart-nsm-only">
+                                                        <li><a target="_blank" href="/tin-ntcomputer/tin-moi?collection=3">Tin mới</a></li>
+                                                        <li><a target="_blank" href="/tin-ntcomputer/tin-khuyen-mai?collection=2">Tin khuyến mãi</a></li>
+                                                        <li><a target="_blank" href="/tin-ntcomputer/tuyen-dung?collection=1">Tuyển dụng</a></li>
+                                                    </ul>
+                                                </div>
+
+                                                <div class="lptmart-nsm-col lptmart-nsm-col30">
+                                                    <h3 class="lptmart-nsm-title">Tin Công Nghệ</h3>
+                                                    <ul class="lptmart-nsm-list lptmart-nsm-only">
+                                                        <li><a target="_blank" href="/tin-cong-nghe/tin-moi?collection=3">Tin mới</a></li>
+                                                        <li><a target="_blank" href="/tin-cong-nghe/xu-huong?collection=5">Xu hướng</a></li>
+                                                        <li><a target="_blank" href="/tin-cong-nghe/giai-tri?collection=6">Giải trí</a></li>
+
+                                                    </ul>
+                                                </div>
+
+                                                <div class="lptmart-nsm-col lptmart-nsm-col30">
+                                                    <h3 class="lptmart-nsm-title">Thông tin hỗ trợ</h3>
+                                                    <ul class="policy-menu-list lptmart-nsm-list lptmart-nsm-only"></ul>
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </li>
+                                
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        
+
+        <div id="main">
+            <div class="container-fluid">
+                
+
+<input data-val="true" data-val-number="The field ID must be a number." data-val-required="The ID field is required." id="ProductDetail_ID" name="ProductDetail.ID" type="hidden" value="34957" />
+<input data-val="true" data-val-number="The field Type must be a number." data-val-required="The Type field is required." id="ProductDetail_Type" name="ProductDetail.Type" type="hidden" value="1" />
+<input id="userid" name="userid" type="hidden" value="-1" />
+<input id="ProductDetail_Title" name="ProductDetail.Title" type="hidden" value="HP Envy 17 I7/1TB/GF840 2G/17.3&quot; HD/Win 8.1" />
+<input type="hidden" id="hdPage" value="ProductDetail" />
+<div>
+    <div class="input-group search-box-main">
+        <input type="text" class="form-control mb-term" placeholder="Bạn muốn tìm gì?">
+        <div class="asmr mb-asmr">
+            <ul class="fshop-search-cate"></ul>
+            <ul class="fshop-search-prod"></ul>
+        </div>
+        <span class="input-group-btn">
+            <button class="btn btn-default mb-button-search" type="button"><i class="glyphicon glyphicon-search"></i> </button>
+        </span>
+    </div>
+
+
+    <div class="detail-box">
+        <div >
+            <div >
+                <div class="detail-breadcrumb">
+                    <ol class="breadcrumb">
+                         <li><span></span><a href='/trang-chu.html'>Trang chủ </a></li><li><a href='/may-tinh-xach-tay'>Laptop</a></li><li><a href='/may-tinh-xach-tay/laptop-hp-ct348'>Laptop HP</a></li><li><a class='active' href='/may-tinh-xach-tay/hp-envy-ct350'>Hp Envy</a></li><li class='active'><a  itemprop='' href='/may-tinh-xach-tay/hp-envy-17-i7-1tb-gf840-2g-17-3-hd-win-8-1-id34957.html' >HP Envy 17 I7/1TB/GF840 2G/17.3" HD/Win 8.1</a></li>
+                    </ol>
+                </div>
+                <div class="detail-container row clearfix">
+                    <div class="detail-top-info clearfix">
+                        <div class="detail-top-left">
+                            <div class="box-name">
+                                <h1 class="detail-name">HP Envy 17 I7/1TB/GF840 2G/17.3&quot; HD/Win 8.1</h1>
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <div class="detail-main-image left">
+
+
+                        <div class="col-xs-12">
+                            <a  itemprop='' href='#' ><span class='img-span'><img  itemprop='image'src='/Images/Products/34957_hp-envy-17-core-i7-5500u-2-4g-ram-12g-hdd-1tb-vga-gtx850-4g-17’fhd-win-8-1_34938_1.jpg?'title='HP Envy 17 I7/1TB/GF840 2G/17.3" HD/Win 8.1'  class='preload-img product-zoom img-size-detail' /><span class='sale-tag'>-6%</span></span></a>
+                        </div>
+                        <div class="col-xs-12">
+                            <ul id="mycarousel" class="jcarousel jcarousel-skin-tango">
+                                    <li>
+                                        <a href="javascript:void(0)">
+                                            <img width="75" height="75" alt="" data-color="" color-name="" is-out-off="false" src="/Images/Products/34957_hp-envy-17-core-i7-5500u-2-4g-ram-12g-hdd-1tb-vga-gtx850-4g-17’fhd-win-8-1_34938_1.jpg?width=75&mode=max" data-large="/Images/Products/34957_hp-envy-17-core-i7-5500u-2-4g-ram-12g-hdd-1tb-vga-gtx850-4g-17’fhd-win-8-1_34938_1.jpg" />
+                                        </a>
+                                    </li>
+                            </ul>
+                            <div style="margin-top: 10px; margin-left: 40px;" class="fbb-like">
+
+                                <div class="like-hol">
+                                    
+                                    <div class="fb-like"
+                                         data-share="true"
+                                         data-send="true"
+                                         data-layout="button_count"
+                                         data-width="200"
+                                         data-show-faces="false">
+                                    </div>
+                                  
+                                    <div class="gplus-like">
+                                        <div class="g-plusone" data-size="tall" data-callback="gplusCallback" data-annotation="none">
+                                        </div>
+                                        <script type="text/javascript">
+                                            (function () {
+                                                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                                                po.src = 'https://apis.google.com/js/plusone.js';
+                                                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                                            })();
+                                        </script>
+                                    </div>
+                                    <div class="twitt-like">
+                                        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://laptopxachtay.com.vn/may-tinh-xach-tay/hp-envy-17-i7-1tb-gf840-2g-17-3-hd-win-8-1-id34957.html">
+                                            Tweet
+                                        </a>
+                                        <script>                        !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+                                    </div>
+                                    <div class="pin-like">
+                                        <a href="http://pinterest.com/pin/create/button/" class="pin-it-button" count-layout="none"><img src="//assets.pinterest.com/images/PinExt.png" alt="Pin it" /> ></a>
+                                        <script type="text/javascript" async src="http://assets.pinterest.com/js/pinit.js"></script>
+                                    </div>
+                                    <div class="cl">
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        
+                        
+                    </div>
+
+                    <div class="detail-main-info right">
+
+                        <div class="detail-order-promotion">
+
+
+                            <div class="left detail-order">
+
+                                <div class="price-hol detail-price-status">
+                                        <div class="price-title">
+                                            Giá cũ
+                                        </div>
+                                        <div class="price-view throught">18,990,000<label>đ</label></div>
+                                        <div class="clearfix">
+                                        </div>
+                                        <div class="realprice-title">
+                                            Giá khuyến mãi
+                                        </div>
+
+                                    <div class="realprice-view">17,990,000<label>đ </label> </div>
+
+                                    <div class="clearfix">
+                                    </div>
+                                    <div class="realprice-title" style="color: red;font-weight:bold ">
+                                        Còn Hàng
+                                    </div>
+                                    <div class="realprice-view">
+                                        <span>
+                                        </span>
+                                    </div>
+
+                                    <div class="clearfix">
+                                    </div>
+                                        <div class="savingprice-title" style="float: left; ">
+                                            Tiết kiệm
+                                        </div>
+                                        <div class="savingprice-view" style="color: #555; ">1,000,000 đ (6%)</div>
+                                        <div class="clearfix">
+                                        </div>
+                                </div>
+    
+                                    <div class="product-block-special">
+                                        <h2 class="promo-title">Cấu hình nổi bật</h2>
+                                        <ul><li><b>Bộ vi xử lí </b>: Intel® Core™ i7-5500U  2.4GHz</li><li><b>Ram </b>: 8GB</li><li><b>Đĩa cứng </b>: 1TB</li><li><b>Màn hình </b>: 17.3" FHD</li><li><b>Card đồ họa </b>: Nvidia GF840 4G rời</li></ul>
+                                    </div>
+                                    <div class="view-more">
+
+                                        <a href="#thong-so-ky-thuat-chi-tiet" id="view-detail-tech">
+                                            <span class="promo-title">Xem thêm cấu hình chi tiết</span>
+                                            <i class="fa fa-2x fa-angle-double-down"></i>
+                                        </a>
+                                    </div>
+                                <div class="order-btn">
+
+
+<form action="/gio-hang.html" data-ajax="true" data-ajax-begin="AddToCartBegin" data-ajax-success="AddToCartSuccess" id="checkoutform" method="post">                                        <div class="quantity product-quantity clearfix col-sm-6 col-xs-6 noleftpadding">
+												<input type="button" value="-" class="minus">
+                                            <input type="text" id="quantity" readonly="" step="1" min="1" name="quantity" value="1" title="Qty" class="qty" size="4">
+												<input type="button" value="+" class="plus">
+											</div> 
+                                        <input type='hidden' id="productid" name='productid' value='34957' />
+                                            <a href="javascript:submitForm('#checkoutform')" class="detail-order-now">
+                                                <label>Đặt hàng ngay</label>
+                                            </a>
+                                        <input type="submit" style="display:none;" />
+</form>
+                                    <a href="#" class="detail-order-instalments">
+                                        <label>
+                                            Trả góp
+
+                                            <span>(Xét duyệt hồ sơ qua điện thoại)</span>
+                                        </label>
+                                    </a>
+                                    <a href="#" data-toggle="modal" data-target="#call-me-back" class="detail-order-call desk-ntc">
+                                        <label >Gọi lại cho tôi
+
+                                            <span>(Để được tư vấn miễn phí)</span></label>
+                                    </a>
+
+                                </div>
+
+                     
+                            </div>
+
+                            <div class="right detail-benefits-support ">
+                                    <div class="product-block widget_widgetkit">
+                                        <h2 class="promo-title">THÔNG TIN & KHUYẾN MÃI</h2>
+                                        <ul>
+                                                <li><i class="fa fa-hand-o-right"></i> Tình trạng:<span style="color:#555"> New full box, Nhập từ Mỹ</span></li>
+                                                                                            <li><i class="fa fa-hand-o-right"></i> Bảo hành: <span style="color:#555"> Bảo h&#224;nh 12 th&#225;ng cty</span></li>
+                                                                                            <li><span style="color: #FF0000;"><i class="fa fa-hand-o-right"></i> Quà tặng:<span style="color:#555"> Tặng t&#250;i + mouse quang + bvs laptop</span></span></li>
+                                            
+                                        </ul>
+                                    </div>
+             <div class="detail-promotion">
+                 <div id="widgetkit-17" class="widget widget_widgetkit" >
+
+                     <div class="order-by-phone"><h5 class="toggler active" ng-cloak>ĐẶT HÀNG : <span> <a ng-href="{{ProductDetail_ContactBlock_contactHtml.Link}}">{{ProductDetail_ContactBlock_contactHtml.DisplayText}}</a></span></h5></div>
+                     <div class="widget-container">
+                         <div class="wk-accordion wk-accordion-default clearfix">
+
+                             <div class="content-wrapper" style="overflow: hidden;">
+                                 <div class="content wk-content clearfix" style="min-height: 127px;" ng-bind-html="renderHtml(ProductDetail_ContactBlock_contactHtml.Description)">
+                                     
+
+
+                                 </div>
+                             </div>
+                         </div>
+                     </div>
+
+
+                 </div>
+                                </div>
+
+                                <div class="banner-detail">
+
+                                </div>
+
+
+
+                               
+                            </div>
+
+                                <div class="detail-accessories">
+                                    <h3 class="detail-title">Có thể bạn quan tâm</h3>
+                                    <ul class="accessories-list">
+                                            <li>
+                                                <a href="/may-tinh-xach-tay/dell-xps-13-9360-i7-7500u-8gb-256g-ssd--id37496.html" class="accessories-image">
+                                                    <img lazy-img data-src="/Images/Products/dell-xps-13-9360-i7-7500u-8gb-256g-ssd-13-3-qhd-touch-win-10-finger-print_37496_4.jpg" title="" alt="" style="display: inline;">
+                                                </a>
+                                                <h3><a href="/may-tinh-xach-tay/dell-xps-13-9360-i7-7500u-8gb-256g-ssd--id37496.html">Dell Xps 13 9360 i7 7500U/ 8GB/ 256G SSD ...</a></h3>
+                                                <strong>24,790,000 đ</strong>
+                                            </li>
+                                            <li>
+                                                <a href="/may-tinh-xach-tay/dell-xps-13-9360-i7-7560u-8gb-256gb-pcie--id37705.html" class="accessories-image">
+                                                    <img lazy-img data-src="/Images/Products/37705_37658_37616_37563_37536_dell-xps-13-i7-8gb-256g-ssd-13-3-qhd-touch-win-10_36332_2.jpg" title="" alt="" style="display: inline;">
+                                                </a>
+                                                <h3><a href="/may-tinh-xach-tay/dell-xps-13-9360-i7-7560u-8gb-256gb-pcie--id37705.html">Dell Xps 13-9360 i7 7560U/ 8GB/ 256GB  PCIe/ ...</a></h3>
+                                                <strong>24,990,000 đ</strong>
+                                            </li>
+                                            <li>
+                                                <a href="/may-tinh-xach-tay/dell-xps-13-9360-i7-8550u-8gb-256gb-pcie--id37881.html" class="accessories-image">
+                                                    <img lazy-img data-src="/Images/Products/37881_37705_37658_37616_37563_37536_dell-xps-13-i7-8gb-256g-ssd-13-3-qhd-touch-win-10_36332_2.jpg" title="" alt="" style="display: inline;">
+                                                </a>
+                                                <h3><a href="/may-tinh-xach-tay/dell-xps-13-9360-i7-8550u-8gb-256gb-pcie--id37881.html">Dell Xps 13-9360 i7 8550U/ 8GB/ 256GB  PCIe/ ...</a></h3>
+                                                <strong>27,590,000 đ</strong>
+                                            </li>
+                                            <li>
+                                                <a href="/may-tinh-xach-tay/dell-xps-13-9360-i7-8550u-16gb-512gb-ssd--id37977.html" class="accessories-image">
+                                                    <img lazy-img data-src="/Images/Products/37977_37563_37536_dell-xps-13-i7-8gb-256g-ssd-13-3-qhd-touch-win-10_36332_2.jpg" title="" alt="" style="display: inline;">
+                                                </a>
+                                                <h3><a href="/may-tinh-xach-tay/dell-xps-13-9360-i7-8550u-16gb-512gb-ssd--id37977.html">Dell Xps 13-9360 i7 8550U/ 16GB/ 512GB SSD ...</a></h3>
+                                                <strong>32,590,000 đ</strong>
+                                            </li>
+                                    </ul>
+                                </div>
+                        </div>
+                      
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="detail-info">
+        <div id="detailmenu" class="detail-menu">
+
+            <ul class="clearfix">
+
+                    <li><a href="#thong-so-ky-thuat" class="first">Thông số kỹ thuật</a></li>                <li><a href="#mo-ta-chi-tiet" class="">Mô tả chi tiết</a></li>
+
+                <li   style="display:none"        ><a href="#video">Video</a></li>
+
+                <li ><a href="#same-category">Sản phẩm tương đương</a></li>
+
+                <li   style="display:none"     ><a href="#phu-kien">Phụ kiện</a></li>
+                <li>
+                    <a href="#binh-luan">
+                        Đánh giá sản phẩm
+                    </a>
+                </li>
+
+            </ul>
+
+
+        </div>
+
+        <div>
+            <div class="box-row">
+
+
+                <div class="detail-specification clearfix" data-name="#thong-so-ky-thuat">
+
+                    <div  class="left detail-col-left53">
+                            <h3 class="detail-title">Thông số kỹ thuật</h3>
+                            <ul class="detail-main-specification">
+                                <li class="specificationheader">
+                                    Cấu hình nổi bật
+                                </li>
+                                <ul><li><label>Bộ vi xử lí : </label>Intel® Core™ i7-5500U  2.4GHz</li><li><label>Ram : </label>8GB</li><li><label>Đĩa cứng : </label>1TB</li><li><label>Màn hình : </label>17.3" FHD</li><li><label>Card đồ họa : </label>Nvidia GF840 4G rời</li></ul>
+                            </ul>
+                                                    <div data-name="#thong-so-ky-thuat-chi-tiet">
+                                <ul class="more-specification">
+                                    <ul><li class='specificationheader'>Thương Hiệu</li><li><label>Dòng/Part sản phẩm : </label> ENVY 17 </li><li><label>Thương hiệu : </label> HP </li><li class='specificationheader'>CPU</li><li><label>Bộ vi xử lí : </label> Intel® Core™ i7-5500U  2.4GHz</li><li><label>Tốc độ CPU : </label> buss 1600 với turbo boost lên tới 3.0Ghz</li><li><label>Bộ nhớ đệm : </label> 4M Cache</li><li class='specificationheader'>RAM</li><li><label>Ram : </label> 8GB</li><li><label>Hỗ trợ Ram tối đa : </label> 8GB (4GB (SO-DIMM) *1 + 4GB (SO-DIMM) *1 ) DDR3L DDRAM (nâng cấp đến 16GB) bus 1600</li><li><label>Loại Ram : </label> DDR3L DDRAM bus 1600</li><li class='specificationheader'>Đĩa Cứng</li><li><label>Đĩa cứng : </label> 1TB</li><li><label>Loại đĩa cứng : </label>  SATA 5400 rpm</li><li class='specificationheader'>Card đồ họa</li><li><label>Bộ nhớ đồ họa : </label> 4GB</li><li><label>Kiểu thiết kế VGA : </label> Intel graphic MH4600 + Nvidia Gefore GF840 4G rời</li><li class='specificationheader'>Màn hình</li><li><label>Công nghệ màn hình : </label> FHD, (WXGA: 1920* 1080 ) hiển thị màu TFT ( đèn nền LED). </li><li><label>Màn hình : </label> 17.3" FHD</li><li class='specificationheader'>Hệ điều hành</li><li><label>Hệ Điều Hành : </label> Windows® 8.1  nguyên bản với ServicePack 1 64bit (phiên bảnEnglish) licence</li><li class='specificationheader'>Giao tiếp mạng</li><li><label>Chuẩn Wifi : </label> IEEE 802.11b/g/n , Tốc độ truyền tải tối đa: 150 Mbps</li><li><label>Bluetooth : </label> Chuẩn Bluetooth® Ver. 4.0 + HS
+</li><li class='specificationheader'>Cổng kết nối & Audio</li><li><label>Cổng Kết Nối : </label> USB 2.0 Type A x 3, SuperSpeedUSB (USB 3.0), Analogue RGB, Mini D sub 15 pin x 1, headphone/microphone, HDMI x 1, SD</li><li class='specificationheader'>Pin/Battery</li><li><label>Thời gian sử dụng : </label> Lithium sử dụng ~5 giờ</li><li class='specificationheader'>Tùy chọn theo máy (option)</li><li><label>Ổ đĩa quang : </label> DVDRW</li><li><label>Camera : </label> Độ phân giải: 1280 x 1024, Điểm ảnh thực: 1.31 Mega pixels</li><li><label>Keyboard Backlit : </label> Độ rộng phím 19.05 mm/ độ nhạy phím 2.0 mm ,82phím,Có đèn bàn phím </li><li><label>Touchpad : </label> Touchpad (hỗ trợ đa điểm)</li><li class='specificationheader'>Trọng lượng & kich thước</li><li><label>Trọng Lượng : </label> ~ 2.9KG</li><li><label>Màu Sắc : </label> Màu bạc</li><li class='specificationheader'>Xuất Xứ / Tiêu chuẩn</li><li><label>Tiêu chuẩn hàng hóa : </label> Sách hướng dẫn, adapter, hàng nguyên thùng new 100%</li></ul>
+                                </ul>
+                            </div>
+                            <a class="detail-specific-more"> <i class="icons blue-arrow-down-icon"></i></a>
+
+                    </div>
+
+
+
+                </div>
+               
+                <div class="detail-post-review clearfix">
+                    <div class="left detail-review">
+                        <div data-name="#mo-ta-chi-tiet">
+                            <h3 class="detail-title">Mô tả chi tiết</h3>
+                            <div class="detail-review-box clearfix">
+                                <div>
+<div style="line-height: 20.8px;"><span style="font-size:20px"><span style="color:#0000FF"><strong>Máy tính xách tay HP 17 inch dòng ENVY (màu bạc)</strong></span></span></div>
+
+<div style="line-height: 20.8px;"> </div>
+
+<div style="line-height: 20.8px;">Khoác lên mình lớp vỏ độc đáo bằng hợp kim với một màu bạc kim loại để hiện diện nổi bật và thật khác biệt. Chiếc máy có hai loa Stereo nằm bên dưới mặt trước máy được thiết kế với thương hiệu Beat cho âm thanh chất lượng cực cao.</div>
+
+<div style="line-height: 20.8px;">Bộ xử lý Intel® Core™ i7 5500U 2.4GHz  với turbo boost lên tới 3.0G<br />
+Hệ điều hành Windows® 8.1  64bit <br />
+HDD: 1TB SATA<br />
+Âm thanh chất lượng cao với công nghệ Beat Audio<br />
+Pin sử dụng lâu và bảo vệ dữ liệu<br />
+Camera HD mạnh mẽ với "Exmor for PC"</div>
+
+<div style="line-height: 20.8px;"> </div>
+
+<div style="line-height: 20.8px;">
+<div style="line-height: 20.8px;">
+<div>Laptop HP Envy 15 thuộc dòng Envy cao cấp của HP mang trên mình lớp vỏ hợp kim nhôm phay xước cùng thiết kế mỏng đặc trưng của thế hệ Ultrabook. Bên cạnh cấu hình mạnh mẽ, dòng Envy của HP nay còn được nâng cấp nhiều tính năng mới mang lại cho người dùng những trải nghiệm công nghệ hàng đầu. Công nghệ âm thanh Beats Audio được thiết kế trên HP Envy 15 còn cho chất lượng âm thanh cao cấp hơn. Camera True HD tích hợp microphone để bạn chia sẻ những giây thú vị với bạn bè và người thân dù ở bất kỳ nơi đâu.</div>
+
+<div> </div>
+
+<div><img alt="" src="https://laptopxachtay.com.vn/kcfinder/upload/images/Laptop/HP/ENVY/c04338930.png" style="height:430px; width:573px" /></div>
+
+<div> </div>
+
+<div><strong>TÍNH NĂNG NỔI BẬT</strong><br />
+<span style="font-size:14px"><strong>Siêu mỏng và gợi cảm</strong></span><br />
+Nhắc đến Ultrabook, nhiều người sẽ nghĩ ngay đến hai từ "mỏng” và "nhẹ”, laptop HP Envy 15 cũng không phải là ngoại lệ. Được thiết kế với lớp vỏ hợp kim nhôm phay xước lịch lãm, thân máy mỏng chỉ 18.8mm và cân nặng 2.1kg, kết hợp bề mặt chống trượt mang đến cho bạn một phong cách thời trang siêu di động và sành điệu.</div>
+
+<div> </div>
+
+<div><strong>Bàn di chuột HP ImagePad đầy ấn tượng</strong><br />
+Là một trong những điểm nổi bật góp phần tạo nên vẻ đẹp riêng cho HP Envy 15, bàn di chuột HP ImagePad không chỉ đẹp với thiết kế kim loại mà còn mang lại cảm giác rộng thoáng và trượt mượt mà trên từng đầu ngón tay.</div>
+
+<div> </div>
+
+<div><strong>Xử lý Intel Core i thế hệ Sandy Bridge</strong><br />
+Bộ vi xử lý Intel Core i7-4510U 2GHz thế hệ mới nhất Haswell hỗ trợ tăng tốc lên đến 3.2GHz khả năng phân 4 luồng xử lý cùng lúc, RAM 12GB DDR3L và đồ họa rời nVidia GeForce 850M 4GB cho phép thực hiện trơn tru mọi tác vụ phức tạp một cách nhanh chóng. Bạn có thể vừa nghe nhạc vừa lướt web, cũng như chỉnh sửa hình ảnh, video và chơi game nhờ vào sức mạnh của thế hệ vi xử lý đa nhiệm mới của Intel.</div>
+
+<div> </div>
+
+<div><strong>Âm thanh cao cấp Beats Audio</strong><br />
+HP đã nâng chất lượng âm thanh laptop HP Envy 15 lên một tầm cao mới bằng việc tích hợp công nghệ âm thanh cao cấp Beats Audio gồm 4 loa giúp tái tạo các phần âm vực bị mất một cách hoàn chỉnh. Nhờ đó, bạn hoàn toàn có thể thưởng thức chất lượng âm thanh thuần khiết nhất.</div>
+
+<div> </div>
+
+<div><img alt="" src="https://laptopxachtay.com.vn/kcfinder/upload/images/Laptop/HP/ENVY/HP_Envy_15_k010ng_22_von_37.jpg" style="height:328px; width:437px" /></div>
+
+<div> </div>
+
+<div><strong>Màn hình 15.6" HD BrightView LED-backlit</strong><br />
+Tất cả những hình ảnh chất lượng cao sẽ được trình diễn rõ nét trên màn hình 15.6” độ phân giải HD, công nghệ BrightView LED-backlit cho hình ảnh sáng rõ, sắc nét nhưng vẫn tiết kiệm năng lượng, mang đến cho bạn những trải nghiệm hình ảnh sống động đến bất ngờ.</div>
+
+<div> </div>
+
+<div><img alt="" src="https://laptopxachtay.com.vn/kcfinder/upload/images/Laptop/HP/ENVY/image-large-xztgk77s20.jpg" style="height:440px; width:440px" /></div>
+
+<div> </div>
+
+<div><strong>Công nghệ làm mát CoolSense độc quyền</strong><br />
+Công nghệ làm mát thông minh CoolSense tự động điều chỉnh nhiệt độ của laptop dựa vào mức độ sử dụng và điều kiện môi trường xung quanh, giữ cho laptop của bạn luôn chạy mát mẻ và làm mát chiếu nghỉ tay, mang đến cho người dùng cảm giác dễ chịu nhất.</div>
+
+<div> </div>
+
+<div><strong>An toàn dữ liệu với HP ProtectSmart</strong><br />
+Nhờ vào công nghệ chống sốc độc quyền của HP, mọi dữ liệu trên laptop của bạn sẽ được an toàn hơn từ những va đập tình cờ, giúp bạn giữ nguyên vẹn các dữ liệu quan trọng nhất cũng như an tâm hơn khi mang máy tính theo bên mình.</div>
+
+<div> </div>
+
+<div><img alt="" src="https://laptopxachtay.com.vn/kcfinder/upload/images/Laptop/HP/ENVY/image-large-xztgk77s20.jpg" style="height:340px; width:340px" /></div>
+
+<div> </div>
+
+<div><strong>Tích hợp đầy đủ các chuẩn kết nối số</strong><br />
+Tập hợp đầy đủ các cổng kết nối của một chiếc laptop cần có HDMI, USB 3.0, RJ-45, jack cắm tai nghe, cũng như webcam độ phân giải HD, cho phép mở rộng không gian giải trí trên laptop đến mức tối đa.</div>
+</div>
+</div>
+</div>
+
+                            </div>
+                        </div>
+                       
+                            <div class="detail-tags clearfix">
+                                <label>Từ khóa liên quan: </label>
+                                <a href="/tim-kiem?key=HP Envy 17" title="HP Envy 17">HP Envy 17</a>
+                            </div>
+                        
+
+                    </div>
+                  
+
+
+                </div>
+                    <div class="detail-compare clearfix " data-name="#same-category">
+                        
+                        <div class="list-inline">
+                            <div class="list-inline-title clearfix" style="margin-bottom: 10px;">
+                                <h3 class="left"> Sản phẩm tương đương</h3>
+                            </div>
+                            <div class="list-inline-content">
+                                <div class="list-inline-list" style="border-top: 1px solid #e8e8e8">
+                                    <div class="swiper-container  list-inline-swiper swiper-container-horizontal list-compare">
+                                        <!-- Additional required wrapper -->
+                                        <div class="swiper-wrapper">
+                                            <div class="swiper-slide col-lg-2 col-md-3 col-sm-4 col-xs-6 compare-item">
+
+                                                <p class="compare-title">
+                                                    Thêm sản phẩm để so sánh
+                                                </p>
+                                                <figure class="p-image bor-shadow">
+                                                    <span class=""> <img class="preload-img " src="/Images/icons/product-compare.png?width=175" style="display: inline;"></span>
+                                                </figure>
+                                                <div class="p-info" style="width:100%;">
+                                                    <div class="p-top-info">
+                                                        <div class="p-name">
+                                                            <input type="text" id="txtAddProductComare" placeholder="Gõ tên sản phẩm" class="form-control" />
+                                                        </div>
+
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <!-- Slides -->
+                                            <div class=' swiper-slide p-item col-lg-2 col-md-3 col-sm-4 col-xs-6'>
+                   
+                    <a  itemprop='' href='/may-tinh-xach-tay/hp-probook-455-g6-amd-r5-2500u-8gb-256gb--id38737.html' class='p-link-prod' ></a>
+                    <figure class='p-image bor-shadow'>
+                        <span class=''><a  itemprop='' href='/may-tinh-xach-tay/hp-probook-455-g6-amd-r5-2500u-8gb-256gb--id38737.html' ><img lazy-img itemprop='' src ='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' data-src='/Images/Products/38737_38656_38655_hp-probook-450-g6-i5-8265u-4gb-500gb-15-6-hd-fg_38652_2.png?width=175&quality=60&mode=max'alt='HP ProBook 455 G6 AMD R5-2500U/ 8GB/ 256GB ...'  class='preload-img ' /></a></span>
+                    </figure>
+                    <div class='p-info'>
+                        <div class='p-top-info'>
+                            <div class='p-name'>
+                                <h3><a  itemprop='' href='/may-tinh-xach-tay/hp-probook-455-g6-amd-r5-2500u-8gb-256gb--id38737.html' >HP ProBook 455 G6 AMD R5-2500U/ 8GB/ 256GB ...</a> </h3>
+                            </div>
+                            <div class='p-price'>
+                                <span class='p-current-price '>16,190,000<span> ₫</span></span>
+                                
+                            </div>
+                        </div>
+                        <div class='p-hide-info'>   
+                                          
+                        <div class='p-promotion'> <p>Thông tin nổi bật:</p> <div><ul><li><b>Bộ vi xử lí </b>: AMD R5-2500U 2.0Ghz</li><li><b>Ram </b>: 8GB DDR4</li><li><b>Đĩa cứng </b>: 256GB SSD</li><li><b>Màn hình </b>: 14.0" HD ATG</li><li><b>Card đồ họa </b>: Radeon™ Vega 8 Graphics</li><li><b>Chất liệu máy </b>: Hợp kim</li></ul></div></div>
+                            
+                        </div>
+                    </div>
+                </div><div class=' swiper-slide p-item col-lg-2 col-md-3 col-sm-4 col-xs-6'>
+                   
+                    <a  itemprop='' href='/may-tinh-xach-tay/hp-pavilion-gaming-15-cx0182tx-i7-8750h--id38717.html' class='p-link-prod' ></a>
+                    <figure class='p-image bor-shadow'>
+                        <span class=''><a  itemprop='' href='/may-tinh-xach-tay/hp-pavilion-gaming-15-cx0182tx-i7-8750h--id38717.html' ><img lazy-img itemprop='' src ='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' data-src='/Images/Products/38717_hp-pavilion-gaming-15-cx0178tx-i7-8750h-8gb-128g-ssd-1tb-gtx1050-4g-15-6-fhd-win-10_38715_4.jpg?width=175&quality=60&mode=max'alt='HP Pavilion Gaming 15-cx0182TX i7 8750H/ ...'  class='preload-img ' /><span class='sale-tag'>-1%</span></a></span>
+                    </figure>
+                    <div class='p-info'>
+                        <div class='p-top-info'>
+                            <div class='p-name'>
+                                <h3><a  itemprop='' href='/may-tinh-xach-tay/hp-pavilion-gaming-15-cx0182tx-i7-8750h--id38717.html' >HP Pavilion Gaming 15-cx0182TX i7 8750H/ ...</a> </h3>
+                            </div>
+                            <div class='p-price'>
+                                <span class='p-current-price red'>25,790,000<span> ₫</span></span>
+                                <div class='price-view throught'>25,990,000<span> ₫</span></div>
+                            </div>
+                        </div>
+                        <div class='p-hide-info'>   
+                                          
+                        <div class='p-promotion'> <p>Thông tin nổi bật:</p> <div><ul><li><b>Bộ vi xử lí </b>:  i7 8750H 2.2Ghz </li><li><b>Ram </b>: 8GB DDR4</li><li><b>Đĩa cứng </b>: 1TB Sata</li><li><b>Màn hình </b>: 15.6"FHD</li><li><b>Công nghệ màn hình </b>: 15.6" FHD SVA anti-glare WLED-backlit (1920 x 1080)</li><li><b>Card đồ họa </b>: Nvidia GeForce GTX1050ti 4G GDDR5</li><li><b>Hệ Điều Hành </b>: Windows® 10 </li></ul></div></div>
+                            
+                        </div>
+                    </div>
+                </div><div class=' swiper-slide p-item col-lg-2 col-md-3 col-sm-4 col-xs-6'>
+                   
+                    <a  itemprop='' href='/may-tinh-xach-tay/hp-pavilion-gaming-15-cx0178tx-i7-8750h--id38715.html' class='p-link-prod' ></a>
+                    <figure class='p-image bor-shadow'>
+                        <span class=''><a  itemprop='' href='/may-tinh-xach-tay/hp-pavilion-gaming-15-cx0178tx-i7-8750h--id38715.html' ><img lazy-img itemprop='' src ='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' data-src='/Images/Products/hp-pavilion-gaming-15-cx0178tx-i7-8750h-8gb-128g-ssd-1tb-gtx1050-4g-15-6-fhd-win-10_38715_4.jpg?width=175&quality=60&mode=max'alt='HP Pavilion Gaming 15-cx0178TX i7 8750H/ ...'  class='preload-img ' /><span class='sale-tag'>-2%</span></a></span>
+                    </figure>
+                    <div class='p-info'>
+                        <div class='p-top-info'>
+                            <div class='p-name'>
+                                <h3><a  itemprop='' href='/may-tinh-xach-tay/hp-pavilion-gaming-15-cx0178tx-i7-8750h--id38715.html' >HP Pavilion Gaming 15-cx0178TX i7 8750H/ ...</a> </h3>
+                            </div>
+                            <div class='p-price'>
+                                <span class='p-current-price red'>24,590,000<span> ₫</span></span>
+                                <div class='price-view throught'>24,990,000<span> ₫</span></div>
+                            </div>
+                        </div>
+                        <div class='p-hide-info'>   
+                                          
+                        <div class='p-promotion'> <p>Thông tin nổi bật:</p> <div><ul><li><b>Bộ vi xử lí </b>:  i7 8750H 2.2Ghz </li><li><b>Ram </b>: 8GB DDR4</li><li><b>Đĩa cứng </b>: 1TB Sata</li><li><b>Màn hình </b>: 15.6"FHD</li><li><b>Công nghệ màn hình </b>: 15.6" FHD SVA anti-glare WLED-backlit (1920 x 1080)</li><li><b>Card đồ họa </b>: Nvidia GeForce GTX1050 4G GDDR5</li><li><b>Hệ Điều Hành </b>: Windows® 10 </li></ul></div></div>
+                            
+                        </div>
+                    </div>
+                </div><div class=' swiper-slide p-item col-lg-2 col-md-3 col-sm-4 col-xs-6'>
+                   
+                    <a  itemprop='' href='/may-tinh-xach-tay/hp-pavilion-15-cs2058tx-i7-8565u-8gb-1tb--id38714.html' class='p-link-prod' ></a>
+                    <figure class='p-image bor-shadow'>
+                        <span class=''><a  itemprop='' href='/may-tinh-xach-tay/hp-pavilion-15-cs2058tx-i7-8565u-8gb-1tb--id38714.html' ><img lazy-img itemprop='' src ='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' data-src='/Images/Products/38714_hp-pavilion-15-cs1044tx-i5-8265u-4gb-1tb-mx130-2g-15-6-fhd-win-10_38567_2.jpg?width=175&quality=60&mode=max'alt='HP Pavilion 15-cs2058TX i7 8565U/ 8GB/ 1TB/ ...'  class='preload-img ' /></a></span>
+                    </figure>
+                    <div class='p-info'>
+                        <div class='p-top-info'>
+                            <div class='p-name'>
+                                <h3><a  itemprop='' href='/may-tinh-xach-tay/hp-pavilion-15-cs2058tx-i7-8565u-8gb-1tb--id38714.html' >HP Pavilion 15-cs2058TX i7 8565U/ 8GB/ 1TB/ ...</a> </h3>
+                            </div>
+                            <div class='p-price'>
+                                <span class='p-current-price '>19,790,000<span> ₫</span></span>
+                                
+                            </div>
+                        </div>
+                        <div class='p-hide-info'>   
+                                          
+                        <div class='p-promotion'> <p>Thông tin nổi bật:</p> <div><ul><li><b>Bộ vi xử lí </b>:  i7 8565U 1.8Ghz </li><li><b>Ram </b>: 8GB DDR4</li><li><b>Đĩa cứng </b>: 1TB Sata</li><li><b>Màn hình </b>: 15.6"FHD</li><li><b>Công nghệ màn hình </b>: 15.6" FHD SVA anti-glare WLED-backlit (1920 x 1080)</li><li><b>Card đồ họa </b>: Nvidia GeForce MX250 2G GDDR5</li><li><b>Hệ Điều Hành </b>: Windows® 10 </li></ul></div></div>
+                            
+                        </div>
+                    </div>
+                </div><div class=' swiper-slide p-item col-lg-2 col-md-3 col-sm-4 col-xs-6'>
+                   
+                    <a  itemprop='' href='/may-tinh-xach-tay/hp-envy-13-aq0032tx-i7-8565u-8gb-256g--id38713.html' class='p-link-prod' ></a>
+                    <figure class='p-image bor-shadow'>
+                        <span class=''><a  itemprop='' href='/may-tinh-xach-tay/hp-envy-13-aq0032tx-i7-8565u-8gb-256g--id38713.html' ><img lazy-img itemprop='' src ='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' data-src='/Images/Products/hp-envy-13-aq0032tx-i7-8565u-8gb-256g-ssd-mx250-2g-13-3-fhd-win-10-fg-kb-led_38713_3.jpg?width=175&quality=60&mode=max'alt='HP ENVY 13-aq0032TX i7 8565U/ 8GB/ 256G ...'  class='preload-img ' /><span class='sale-tag'>-3%</span></a></span>
+                    </figure>
+                    <div class='p-info'>
+                        <div class='p-top-info'>
+                            <div class='p-name'>
+                                <h3><a  itemprop='' href='/may-tinh-xach-tay/hp-envy-13-aq0032tx-i7-8565u-8gb-256g--id38713.html' >HP ENVY 13-aq0032TX i7 8565U/ 8GB/ 256G ...</a> </h3>
+                            </div>
+                            <div class='p-price'>
+                                <span class='p-current-price red'>26,990,000<span> ₫</span></span>
+                                <div class='price-view throught'>27,790,000<span> ₫</span></div>
+                            </div>
+                        </div>
+                        <div class='p-hide-info'>   
+                                          
+                        <div class='p-promotion'> <p>Thông tin nổi bật:</p> <div><ul><li><b>Bộ vi xử lí </b>:  i7-8565U</li><li><b>Ram </b>: 8 GB </li><li><b>Đĩa cứng </b>: 256 GB M.2 SSD</li><li><b>Màn hình </b>: 13.3" FHD IPS</li><li><b>Card đồ họa </b>: Nvidia MX250 2G</li><li><b>Hệ Điều Hành </b>: Windows® 10 home </li><li><b>Finger Printer (Nhận diện vân tay) </b>: Có</li></ul></div></div>
+                            
+                        </div>
+                    </div>
+                </div><div class=' swiper-slide p-item col-lg-2 col-md-3 col-sm-4 col-xs-6'>
+                   
+                    <a  itemprop='' href='/may-tinh-xach-tay/hp-probook-450-g6-i7-8565u-8gb-256gb-ssd--id38657.html' class='p-link-prod' ></a>
+                    <figure class='p-image bor-shadow'>
+                        <span class=''><a  itemprop='' href='/may-tinh-xach-tay/hp-probook-450-g6-i7-8565u-8gb-256gb-ssd--id38657.html' ><img lazy-img itemprop='' src ='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' data-src='/Images/Products/38657_38656_38655_hp-probook-450-g6-i5-8265u-4gb-500gb-15-6-hd-fg_38652_2.png?width=175&quality=60&mode=max'alt='HP ProBook 450 G6 i7 8565U/ 8GB/ 256GB SSD/ ...'  class='preload-img ' /></a></span>
+                    </figure>
+                    <div class='p-info'>
+                        <div class='p-top-info'>
+                            <div class='p-name'>
+                                <h3><a  itemprop='' href='/may-tinh-xach-tay/hp-probook-450-g6-i7-8565u-8gb-256gb-ssd--id38657.html' >HP ProBook 450 G6 i7 8565U/ 8GB/ 256GB SSD/ ...</a> </h3>
+                            </div>
+                            <div class='p-price'>
+                                <span class='p-current-price '>23,190,000<span> ₫</span></span>
+                                
+                            </div>
+                        </div>
+                        <div class='p-hide-info'>   
+                                          
+                        <div class='p-promotion'> <p>Thông tin nổi bật:</p> <div><ul><li><b>Bộ vi xử lí </b>:  i7 8565U 1.8Ghz </li><li><b>Ram </b>: 8GB DDR4</li><li><b>Đĩa cứng </b>: 256GB SSD</li><li><b>Màn hình </b>: 15.6" FHD ATG</li><li><b>Card đồ họa </b>: NVIDIA® GeForce® MX130 2GB</li><li><b>Chất liệu máy </b>: Hợp kim</li></ul></div></div>
+                            
+                        </div>
+                    </div>
+                </div><div class=' swiper-slide p-item col-lg-2 col-md-3 col-sm-4 col-xs-6'>
+                   
+                    <a  itemprop='' href='/may-tinh-xach-tay/hp-probook-450-g6-i5-8265u-4gb-256gb-ssd--id38656.html' class='p-link-prod' ></a>
+                    <figure class='p-image bor-shadow'>
+                        <span class=''><a  itemprop='' href='/may-tinh-xach-tay/hp-probook-450-g6-i5-8265u-4gb-256gb-ssd--id38656.html' ><img lazy-img itemprop='' src ='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' data-src='/Images/Products/38656_38655_hp-probook-450-g6-i5-8265u-4gb-500gb-15-6-hd-fg_38652_2.png?width=175&quality=60&mode=max'alt='HP ProBook 450 G6 i5 8265U/ 4GB/ 256GB SSD/ ...'  class='preload-img ' /></a></span>
+                    </figure>
+                    <div class='p-info'>
+                        <div class='p-top-info'>
+                            <div class='p-name'>
+                                <h3><a  itemprop='' href='/may-tinh-xach-tay/hp-probook-450-g6-i5-8265u-4gb-256gb-ssd--id38656.html' >HP ProBook 450 G6 i5 8265U/ 4GB/ 256GB SSD/ ...</a> </h3>
+                            </div>
+                            <div class='p-price'>
+                                <span class='p-current-price '>17,790,000<span> ₫</span></span>
+                                
+                            </div>
+                        </div>
+                        <div class='p-hide-info'>   
+                                          
+                        <div class='p-promotion'> <p>Thông tin nổi bật:</p> <div><ul><li><b>Bộ vi xử lí </b>:  i5-8265U 1.6GHz </li><li><b>Ram </b>: 4GB DDR4</li><li><b>Đĩa cứng </b>: 256GB SSD</li><li><b>Màn hình </b>: 15.6" FHD ATG</li><li><b>Card đồ họa </b>: NVIDIA® GeForce® MX130 2GB</li><li><b>Chất liệu máy </b>: Hợp kim</li></ul></div></div>
+                            
+                        </div>
+                    </div>
+                </div><div class=' swiper-slide p-item col-lg-2 col-md-3 col-sm-4 col-xs-6'>
+                   
+                    <a  itemprop='' href='/may-tinh-xach-tay/hp-probook-450-g6-i5-8265u-4gb-500gb--id38655.html' class='p-link-prod' ></a>
+                    <figure class='p-image bor-shadow'>
+                        <span class=''><a  itemprop='' href='/may-tinh-xach-tay/hp-probook-450-g6-i5-8265u-4gb-500gb--id38655.html' ><img lazy-img itemprop='' src ='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' data-src='/Images/Products/38655_hp-probook-450-g6-i5-8265u-4gb-500gb-15-6-hd-fg_38652_2.png?width=175&quality=60&mode=max'alt='HP ProBook 450 G6 i5 8265U/ 4GB/ 500GB/ ...'  class='preload-img ' /></a></span>
+                    </figure>
+                    <div class='p-info'>
+                        <div class='p-top-info'>
+                            <div class='p-name'>
+                                <h3><a  itemprop='' href='/may-tinh-xach-tay/hp-probook-450-g6-i5-8265u-4gb-500gb--id38655.html' >HP ProBook 450 G6 i5 8265U/ 4GB/ 500GB/ ...</a> </h3>
+                            </div>
+                            <div class='p-price'>
+                                <span class='p-current-price '>17,590,000<span> ₫</span></span>
+                                
+                            </div>
+                        </div>
+                        <div class='p-hide-info'>   
+                                          
+                        <div class='p-promotion'> <p>Thông tin nổi bật:</p> <div><ul><li><b>Bộ vi xử lí </b>:  i5-8265U 1.6GHz </li><li><b>Ram </b>: 4GB DDR4</li><li><b>Đĩa cứng </b>: 500GB  Sata</li><li><b>Màn hình </b>: 15.6" FHD ATG</li><li><b>Card đồ họa </b>: NVIDIA® GeForce® MX130 2GB</li><li><b>Chất liệu máy </b>: Hợp kim</li></ul></div></div>
+                            
+                        </div>
+                    </div>
+                </div><div class=' swiper-slide p-item col-lg-2 col-md-3 col-sm-4 col-xs-6'>
+                   
+                    <a  itemprop='' href='/may-tinh-xach-tay/hp-probook-450-g6-i5-8265u-8gb-1tb-15-6-hd--id38654.html' class='p-link-prod' ></a>
+                    <figure class='p-image bor-shadow'>
+                        <span class=''><a  itemprop='' href='/may-tinh-xach-tay/hp-probook-450-g6-i5-8265u-8gb-1tb-15-6-hd--id38654.html' ><img lazy-img itemprop='' src ='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' data-src='/Images/Products/38654_hp-probook-450-g6-i5-8265u-4gb-500gb-15-6-hd-fg_38652_2.png?width=175&quality=60&mode=max'alt='HP ProBook 450 G6 i5 8265U/ 8GB/ 1TB/ 15.6"HD/ ...'  class='preload-img ' /></a></span>
+                    </figure>
+                    <div class='p-info'>
+                        <div class='p-top-info'>
+                            <div class='p-name'>
+                                <h3><a  itemprop='' href='/may-tinh-xach-tay/hp-probook-450-g6-i5-8265u-8gb-1tb-15-6-hd--id38654.html' >HP ProBook 450 G6 i5 8265U/ 8GB/ 1TB/ 15.6"HD/ ...</a> </h3>
+                            </div>
+                            <div class='p-price'>
+                                <span class='p-current-price '>16,590,000<span> ₫</span></span>
+                                
+                            </div>
+                        </div>
+                        <div class='p-hide-info'>   
+                                          
+                        <div class='p-promotion'> <p>Thông tin nổi bật:</p> <div><ul><li><b>Bộ vi xử lí </b>:  i5-8265U 1.6GHz </li><li><b>Ram </b>: 8GB DDR4</li><li><b>Đĩa cứng </b>: 1TB Sata</li><li><b>Màn hình </b>: 15.6" HD ATG</li><li><b>Card đồ họa </b>: Intel® UHD Graphics 620</li><li><b>Chất liệu máy </b>: Hợp kim</li></ul></div></div>
+                            
+                        </div>
+                    </div>
+                </div><div class=' swiper-slide p-item col-lg-2 col-md-3 col-sm-4 col-xs-6'>
+                   
+                    <a  itemprop='' href='/may-tinh-xach-tay/hp-probook-450-g6-i5-8265u-4gb-500gb--id38653.html' class='p-link-prod' ></a>
+                    <figure class='p-image bor-shadow'>
+                        <span class=''><a  itemprop='' href='/may-tinh-xach-tay/hp-probook-450-g6-i5-8265u-4gb-500gb--id38653.html' ><img lazy-img itemprop='' src ='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' data-src='/Images/Products/38653_hp-probook-450-g6-i5-8265u-4gb-500gb-15-6-hd-fg_38652_2.png?width=175&quality=60&mode=max'alt='HP ProBook 450 G6 i5 8265U/ 4GB/ 500GB/ ...'  class='preload-img ' /></a></span>
+                    </figure>
+                    <div class='p-info'>
+                        <div class='p-top-info'>
+                            <div class='p-name'>
+                                <h3><a  itemprop='' href='/may-tinh-xach-tay/hp-probook-450-g6-i5-8265u-4gb-500gb--id38653.html' >HP ProBook 450 G6 i5 8265U/ 4GB/ 500GB/ ...</a> </h3>
+                            </div>
+                            <div class='p-price'>
+                                <span class='p-current-price '>16,590,000<span> ₫</span></span>
+                                
+                            </div>
+                        </div>
+                        <div class='p-hide-info'>   
+                                          
+                        <div class='p-promotion'> <p>Thông tin nổi bật:</p> <div><ul><li><b>Bộ vi xử lí </b>:  i5-8265U 1.6GHz </li><li><b>Ram </b>: 4GB DDR4</li><li><b>Đĩa cứng </b>: 500GB  Sata</li><li><b>Màn hình </b>: 15.6" HD ATG</li><li><b>Card đồ họa </b>: Intel® UHD Graphics 620</li><li><b>Chất liệu máy </b>: Hợp kim</li></ul></div></div>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                <div class="detail-comments clearfix" data-name="#binh-luan">
+                    <div class="left detail-review">
+                        <div>
+                            <div class="col-md-6">
+                                <h3 class="detail-title">
+                                    Đánh giá về sản phẩm
+                                </h3>
+                            </div>
+                            <div class="col-md-6"><h3 class="detail-title">Khách hàng thảo luận</h3></div>
+                        </div>
+
+                        <div>
+                            <div class="col-md-6">
+
+                                    <div class="comment-disabled">
+                                        Bạn cần đăng nhập để có thể đánh giá sản phẩm. <a href="/dang-nhap.html?returnUrl=/may-tinh-xach-tay/hp-envy-17-i7-1tb-gf840-2g-17-3-hd-win-8-1-id34957.html">Đăng nhập tại đây.</a>
+                                    </div>
+
+                            </div>
+                            <div class="col-md-6">
+
+                                <div class="comment-facebook">
+                                    <div class="fb-comments" data-href="https://laptopxachtay.com.vn/may-tinh-xach-tay/hp-envy-17-i7-1tb-gf840-2g-17-3-hd-win-8-1-id34957.html?gclid=EAIaIQobChMIqoWt9Nzj4wIVA7eWCh3W5whDEAYYAiABEgJUEfD_BwE" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<div class="modal fade" id="modalAddTocart" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="favorite-title">
+                    <h3>
+                        <i class="fa fa-cart-plus" style=" color: #5694F2; font-size: 30px;"></i>
+                        <span class="content-favorite" style="color: #2D4CEA"></span>
+                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                    </h3>
+
+                </div>
+<form action="/Ntcomputer/ShoppingCartInsert" data-ajax="true" data-ajax-begin="AddToCartBegin" data-ajax-success="AddToCartSuccess" id="checkoutform" method="post" style=" display: -webkit-box;">                    <input type="hidden" value="1" name="quantity" id="quantity" class="form-control quantity">
+                    <input type='hidden' id="productid" name='productid' value='34957' />
+                    <div class="col-md-12">
+                        <p>
+                            Họ tên:
+                            <input class="form-control" data-val="true" data-val-required="The Name field is required." id="ShoppingCartPost_Name" name="ShoppingCartPost.Name" type="text" value="" />
+                            <span class="field-validation-valid" data-valmsg-for="ShoppingCartPost.Name" data-valmsg-replace="false">Vui l&#242;ng nhập t&#234;n</span>
+                        </p>
+                        <p>
+                            Số điện thoại:
+                            <input class="form-control" data-val="true" data-val-required="The Phone field is required." id="ShoppingCartPost_Phone" name="ShoppingCartPost.Phone" type="text" value="" />
+                            <span class="field-validation-valid" data-valmsg-for="ShoppingCartPost.Phone" data-valmsg-replace="false">Vui l&#242;ng nhập số điện thoại</span>
+                        </p>
+                        <p>
+                            Email:
+                            <input class="form-control" id="ShoppingCartPost_Email" name="ShoppingCartPost.Email" type="text" value="" />
+                        </p>
+                        <br />
+                        <div class="col-lg-offset-10">
+                            <input type="submit" class="btn btn-success" value="Đặt ngay" />
+                        </div>
+                    </div>
+</form>            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="modalAddTocartSuccess" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="favorite-title">
+                    <h3>
+                        <i class="fa fa-cart-plus" style=" color: #5694F2; font-size: 20px;"></i>
+                        <span class="content-favorite" style="color: #2D4CEA"></span>
+                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                    </h3>
+
+                </div>
+                <div style="display: -webkit-box;">
+                    <div class="col-md-12">
+                        <p id="content-response" style="padding: 20px; font-size: 20px;">
+                            Đặt hàng thành công!
+                        </p>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--call me back dialog-->
+<div class="modal fade" id="call-me-back" tabindex="-1" role="dialog" aria-labelledby="callmeback" aria-hidden="true"  >
+    <div class="modal-dialog" style="max-width:400px;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="myModalLabel">Gọi lại cho tôi</h4>
+            </div>
+            <div class="modal-body">
+                <div class="">
+                    <label for="callmephonenumber">Nhập số điện thoại của bạn</label>
+                    <input type="tel" id="callmephonenumber" placeholder="0123456789" class="form-control" />
+
+                </div>
+
+                <div class="clearfix"></div>
+            </div>
+            <div class="modal-footer">
+
+               
+                <a href="javascript:void(0)" id="call-me-confirmbtn" onclick="callmeBack()" class="btn-success btn-nt">Yêu cầu gọi lại</a>
+                <a class="btn-nt btn-primary" data-dismiss="modal" href="#call-me-back">Hủy</a>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+
+        <footer class="lptmart-footer">
+            <div class="container-fluid">
+                <div class="lptmart-mainbox">
+
+
+                    <div class="lptmart-ft-htcn">
+                        <div class=" banner" ng-cloak>
+                            <div class="left-side-banner icon-on-left banner-items orange col-xs-4" style="background: url({{bindImage(Frontend_Footer_itembanner1.ImageURL)}})#04a50a 5px 13px no-repeat; ">
+                                <h4><a ng-href="{{Frontend_Footer_itembanner1.Link}}" target="_blank"><span class="title">{{Frontend_Footer_itembanner1.DisplayText}}</span> </a></h4>
+
+                                <h4><a ng-href="{{Frontend_Footer_itembanner1.Link}}" target="_blank">{{Frontend_Footer_itembanner1.ShortDescription}}</a></h4>
+                                <a ng-href="{{Frontend_Footer_itembanner1.Link}}" target="_blank"><span class="button">Xem</span> </a>
+                            </div>
+
+                            <div class="middle-banner banner-items icon-on-left light-blue col-xs-4" style="background: url({{bindImage(Frontend_Footer_itembanner2.ImageURL)}}) #0119a2 13px 13px no-repeat; ">
+                                <h4><a ng-href="{{Frontend_Footer_itembanner2.Link}}" target="_blank"><span class="title">{{Frontend_Footer_itembanner2.DisplayText}}</span> </a></h4>
+
+                                <h4><a ng-href="{{Frontend_Footer_itembanner2.Link}}" target="_blank">{{Frontend_Footer_itembanner2.ShortDescription}}</a></h4>
+                                <a ng-href="{{Frontend_Footer_itembanner2.Link}}" target="_blank"><span class="button">Xem</span> </a>
+                            </div>
+
+                            <div class="right-side-banner banner-items icon-on-right gray col-xs-4" style="background: url({{bindImage(Frontend_Footer_itembanner3.ImageURL)}}) #ff0000 7px 15px no-repeat; ">
+                                <h4><a ng-href="{{Frontend_Footer_itembanner3.Link}}" target="_blank"><span class="title">{{Frontend_Footer_itembanner3.DisplayText}}</span> </a></h4>
+
+                                <h4><a ng-href="{{Frontend_Footer_itembanner3.Link}}" target="_blank">{{Frontend_Footer_itembanner3.ShortDescription}}</a></h4>
+                                <a ng-href="{{Frontend_Footer_itembanner3.Link}}" target="_blank"><span class="button">Xem</span> </a>
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <div class="lptmart-ft-htcn">
+                        <div class="row">
+                            <div class="col-md-7">
+                                <div class=" EmailSubscription-content">
+                                    <div id="subscribe_form" class="BlockContent">
+<form action="/NtComputer/RegisterLetter" data-ajax="true" data-ajax-failure="EmailRegisterToggleFailure" data-ajax-success="EmailRegisterToggleSuccess" id="emailletter-toggle" method="post">                                            <label class="subscribe_email">
+                                                Nhận bản tin
+                                            </label>
+                                            <input type="text" class="Textbox " placeholder="Nhập địa chỉ email" name="EmailLetter" required="" id="emaillettertoggle">
+                                            <input type="submit" value="Đăng ký" id="sentregisteremail" class="Button">
+                                            <span class="toggle-error"></span>
+                                            <span class="toggle-success"></span>
+</form>                                    </div>
+                                    <div class="Clear">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-5" ng-bind-html="renderHtml(Frontend_Footer_followme.Description)"></div>
+                        </div>
+                    </div>
+
+                    
+
+                    <div class="lptmart-ft-htcn-mobile">
+                        <div class="row">
+                            <div class="col-md-12" ng-bind-html="renderHtml(Frontend_Footer_policyhtmlmobile.Description)">
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="lptmart-menu-footer">
+                        <div class="row" ng-cloak>
+                            <div class="col-md-7 lptmart-mf-listmn">
+                                <div class="row">
+
+                                    <div class="col-xs-7 col-sm-4">
+                                        <h3 class="lptmart-mf-title">{{Frontend_Footer_block1html.DisplayText}}</h3>
+                                        <div class="content" ng-bind-html="renderHtml(Frontend_Footer_block1html.Description)">
+
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-7 col-sm-4">
+                                        <h3 class="lptmart-mf-title">{{Frontend_Footer_block2html.DisplayText}}</h3>
+                                        <div class="content" ng-bind-html="renderHtml(Frontend_Footer_block2html.Description)">
+
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4">
+                                        <h3 class="lptmart-mf-title">{{Frontend_Footer_block3html.DisplayText}}</h3>
+                                        <div class="content" ng-bind-html="renderHtml(Frontend_Footer_block3html.Description)">
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-5 lptmart-mf-catehot">
+                                <h3 class="lptmart-mf-title">{{Frontend_Footer_block4html.DisplayText}}</h3>
+                                <div class="content" ng-bind-html="renderHtml(Frontend_Footer_block4html.Description)">
+
+                                </div>
+                            </div>
+                            <div class="col-xs-12" ng-bind-html="renderHtml(Frontend_Footer_block5html.Description)">
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class=" lptmart-menu-footer-mobile">
+                        <div class="row panel-footer-mobile">
+                            <div class="panel panel-info ">
+                                <div class="panel-heading">
+                                    <a style="float: left; width: 90%;" data-toggle="collapse" href="#filter1">
+                                        <h4 class="panel-title">
+                                            {{Frontend_Footer_block1html.DisplayText}}
+
+                                        </h4>
+                                    </a>
+                                    <i class="fa fa-chevron-down" style="float:right;"></i>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div id="filter1" class="panel-collapse collapse">
+                                    <div class="panel-body" ng-bind-html="renderHtml(Frontend_Footer_block1html.Description)">
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="panel panel-info ">
+                                <div class="panel-heading">
+                                    <a style="float: left; width: 90%;" data-toggle="collapse" href="#filter2">
+                                        <h4 class="panel-title">
+                                            {{Frontend_Footer_block2html.DisplayText}}
+
+                                        </h4>
+                                    </a>
+                                    <i class="fa fa-chevron-down" style="float:right;"></i>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div id="filter2" class="panel-collapse collapse">
+                                    <div class="panel-body" ng-bind-html="renderHtml(Frontend_Footer_block2html.Description)">
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="panel panel-info ">
+                                <div class="panel-heading">
+                                    <a style="float: left; width: 90%;" data-toggle="collapse" href="#filter3">
+                                        <h4 class="panel-title">{{Frontend_Footer_block3html.DisplayText}}</h4>
+                                    </a>
+                                    <i class="fa fa-chevron-down" style="float:right;"></i>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div id="filter3" class="panel-collapse collapse">
+                                    <div class="panel-body" ng-bind-html="renderHtml(Frontend_Footer_block3html.Description)">
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="lptmart-menu-footer">
+                        <div class="row">
+                            <div class="col-md-12" ng-bind-html="renderHtml(Frontend_Footer_paymenttag.Description)">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="lptmart-ft-tags" ng-cloak ng-bind-html="renderHtml(Frontend_Footer_taghtml.Description)">
+
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+    <!--add to cart success dialog-->
+    <div class="modal fade" id="add-cart-success-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title" id="myModalLabel">Giỏ hàng</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="lst">
+                    </div>
+
+                    <div class="lst-total">
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="modal-footer">
+                    <a href="/thanh-toan.html" class="btn btn-bb">Thực hiện thanh toán</a>
+                    <a class="btn btn-primary" href="/gio-hang.html">Cập nhật giỏ hàng</a>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Tiếp tục mua hàng</button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--post success dialog-->
+    <div class="modal fade" id="post-success-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog" style="max-width:400px;">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title" id="myModalLabel"></h4>
+                </div>
+                <div class="modal-body">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="pos-right">
+        <a id="bttop" href="javascript:void(0)" style="display: inline;"><img src="/Content/images/to-top.png"></a><br><br>
+
+    </div>
+
+    <script>
+        var pathImageWebContent = '/Images/Webcontent/';
+    </script>
+    <script src="/bundles/base?v=uANkmQR_ZWTXu4ZaU7S0Hk_Qe7x6kcp66y7Xd2rLH5o1"></script>
+<script src="/bundles/frontendtop?v=Yt0-og_6lwYY5co9Ukjjpo_oTBcGFYyFxgtHyEMplhk1"></script>
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#featured").tabs({ fx: { opacity: "toggle" } }).tabs("rotate", 5000, true);
+            $(".nav-box ul.nav-list li a.nav-item-link, .nav-box ul.nav-list li .nav-sub").hover(
+              function () {
+                  $(this).parent().find('.nav-sub').show();
+              },
+              function () {
+                  $(this).parent().find('.nav-sub').hide();
+              }
+            );
+
+            $('.user-login').hover(
+              function () {
+                  $(this).parent().find('.hover-box').show();
+              },
+              function () {
+                  $(this).parent().find('.hover-box').hide();
+              }
+            );
+
+            var lastScrollTop = 0;
+            $(window).scroll(function () {
+                var scrollPosition = $(this).scrollTop();
+
+                if (scrollPosition < lastScrollTop) {
+                    if (scrollPosition > 500) {
+                        $('.menu-header').addClass('menu-header-fixed').removeClass('menu-header');
+                        $('.menu-header-fixed').find('.row-menu').hide();
+                    } else {
+                        $('.menu-header-fixed').addClass('menu-header').removeClass('menu-header-fixed');
+                        $('.menu-header').find('.row-menu').show();
+                    }
+                };
+                lastScrollTop = scrollPosition;
+            });
+
+        });
+    </script>
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+        var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+        (function () {
+            var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/57569b99aa28859848bab7cb/default';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
+        })();
+    </script>
+
+    <!--End of Tawk.to Script-->
+    	
+
+    <!--Start of Zopim Live Chat Script-->
+    
+    <!--End of Zopim Live Chat Script-->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-57809732-5', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    ﻿<!-- Google Tag Manager -->
+    <script>
+(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-MZ749WH');</script>
+    <!-- End Google Tag Manager -->
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            }; if (!f._fbq) f._fbq = n;
+            n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+        }(window,
+        document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '297353964021143'); // Insert your pixel ID here.
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" style="display:none"
+             src="https://www.facebook.com/tr?id=297353964021143&ev=PageView&noscript=1" />
+    </noscript>
+    <!-- DO NOT MODIFY -->
+    <!-- End Facebook Pixel Code -->
+
+    
+    <script>
+        var maincatstr = 'may-tinh-xach-tay';
+    </script>
+<div id="fb-root"></div>
+<script>
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.6&appId=501944326666406";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    <script src="/bundles/productdetail?v=W7cQVGicVWMeg9kXCuIyZWtdvmbHwUC5STSTrgGbhRY1"></script>
+
+    <script>
+    dataLayer.push({
+        'event': 'google_tag_params',
+        'remarketing_data': {
+            'dynx_itemid': '34957',
+            'dynx_pagetype': 'offerdetail',
+            'dynx_totalvalue': 18990000
+        }
+    });
+</script>
+ 
+</body>
+</html>
