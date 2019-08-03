@@ -84,7 +84,7 @@
                                                 </c:otherwise>
                                             </c:choose>
 
-                                            <td>$${product.productprice}</td>
+                                            <td><strong>$${product.productprice}</strong></td>
                                             <td>${product.categoryname}</td>
                                             <td class="text-right">
                                                 <button data-toggle="modal"

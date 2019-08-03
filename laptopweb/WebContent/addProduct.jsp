@@ -14,7 +14,7 @@
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
-            <form action="" method="post">
+            <form action="AddProductServlet" method="post">
             <div class="modal-body">
                 <div class="row form-group">
                     <div class="col col-md-3">
@@ -45,7 +45,7 @@
                     </div>
                     <div class="col-1 col-md-1"><h3>$</h3></div>
                     <div class="col-11 col-md-8">
-                        <input type="text" name="category" placeholder="Price..."
+                        <input type="text" name="productprice" placeholder="Price..."
                                class="form-control">
                         <span class="help-block"></span>
                     </div>
@@ -56,22 +56,30 @@
                     </div>
 
                     <sql:query var="result" dataSource="${root}">
-                        SELECT CATEGORYNAME FROM CATEGORY;
+                        SELECT * FROM CATEGORY;
                     </sql:query>
                     <div class="col-12 col-md-9">
-                        <select class="form-control" id="selectType">
+                        <select class="form-control" id="selectType" name="categorytype">
                             <c:forEach var="type" items="${result.rows}">
-                                <option>${type.categoryname}</option>
+                                <option value="${type.categoryid}">${type.categoryname}</option>
                             </c:forEach>
                         </select>
                         <span class="help-block"></span>
                     </div>
+                </div>
 
+                <div class="row form-group">
+                    <div class="col col-md-3">
+                        <label for="textarea-input" class=" form-control-label">Description</label>
+                    </div>
+                    <div class="col-12 col-md-9">
+                        <textarea name="productdescription" id="textarea-input" rows="9" placeholder="Description..." class="form-control"></textarea>
+                    </div>
                 </div>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
                 <button type="submit" class="btn btn-primary">Confirm</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
             </div>
             </form>
         </div>
