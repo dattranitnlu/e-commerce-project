@@ -1,18 +1,18 @@
 package com.laptopweb.model;
 
 public class Category {
-	private long categoryID;
+	private int categoryID;
 	private String categoryName;
 
 	public Category() {
 
 	}
 
-	public long getCategoryID() {
+	public int getCategoryID() {
 		return categoryID;
 	}
 
-	public void setCategoryID(long categoryID) {
+	public void setCategoryID(int categoryID) {
 		this.categoryID = categoryID;
 	}
 

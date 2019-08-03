@@ -22,7 +22,7 @@ public class CategoryDAO {
 			
 			while(rs.next()) {
 				Category ca = new Category();
-				ca.setCategoryID(rs.getLong("categoryid"));
+				ca.setCategoryID(rs.getInt("categoryid"));
 				ca.setCategoryName(rs.getString("categoryname"));
 				categories.add(ca);
 			}

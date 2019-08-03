@@ -24,7 +24,7 @@ public class EditCategoryServlet extends HttpServlet {
 
 
         Category category = new Category();
-        category.setCategoryID(Long.valueOf(request.getParameter("categoryid")));
+        category.setCategoryID(Integer.parseInt(request.getParameter("id")));
         category.setCategoryName(name);
 
         System.out.println(CategoryDAO.update(category));

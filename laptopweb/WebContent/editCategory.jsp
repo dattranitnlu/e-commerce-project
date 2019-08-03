@@ -29,7 +29,9 @@
                                 </div>
                                 <div class="col-12 col-md-9">
                                     <input type="text" name="categoryid" placeholder="Category ID..."
-                                           class="form-control" value="${item.categoryid}" disabled>
+                                           class="form-control" value="${param.categoryid}" disabled>
+                                    <input type="hidden" name="id" placeholder="Category ID..."
+                                           class="form-control" value="${param.categoryid}">
                                     <span class="help-block"></span>
                                 </div>
                             </div>

@@ -33,5 +33,8 @@
     <orderEntry type="library" name="jstl-1.2" level="project" />
     <orderEntry type="library" name="jsp-api" level="project" />
     <orderEntry type="library" name="mysql-connector-java-8.0.16" level="project" />
+    <orderEntry type="library" name="commons-fileupload-1.2.2" level="project" />
+    <orderEntry type="library" name="commons-io-2.4" level="project" />
+    <orderEntry type="library" name="cos" level="project" />
   </component>
 </module>
