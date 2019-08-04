@@ -24,6 +24,10 @@
                         <i class="fas fa-table"></i>Products Management</a>
                 </li>
                 <li>
+                    <a href="usersManagement.jsp">
+                        <i class="far fa-check-square"></i>Users Management</a>
+                </li>
+                <li>
                     <a href="#">
                         <i class="far fa-check-square"></i>Orders Management</a>
                 </li>
