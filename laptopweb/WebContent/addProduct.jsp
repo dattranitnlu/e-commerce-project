@@ -16,16 +16,6 @@
             </div>
             <form action="AddProductServlet" method="post">
             <div class="modal-body">
-                <div class="row form-group">
-                    <div class="col col-md-3">
-                        <label class=" form-control-label">Product ID</label>
-                    </div>
-                    <div class="col-12 col-md-9">
-                        <input type="text" name="productid" placeholder="product ID..."
-                               class="form-control">
-                        <span class="help-block"></span>
-                    </div>
-                </div>
 
                 <div class="row form-group">
                     <div class="col col-md-3">

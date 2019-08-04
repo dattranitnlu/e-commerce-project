@@ -2,6 +2,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/sql" prefix="sql" %>
 <%@ taglib prefix="C" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib uri = "http://java.sun.com/jsp/jstl/functions" prefix = "fn" %>
 <html>
 <head>
     <title>Products Management</title>
@@ -69,32 +70,44 @@
 
                                             <c:set var="image" value="${product.productimage}"/>
                                             <c:choose>
-                                                <c:when test="${image != \"\" || image != null}">
-                                                    <td><img src="images/${image}" alt="${image}" width="50px"
-                                                             height="50px"/></td>
+                                                <c:when test="${fn:trim(image) == \"\" || image == null}">
+                                                    <td>
+                                                        <form action = "UploadServlet?id=${product.productid}" method = "post"
+                                                              enctype = "multipart/form-data">
+                                                            <input type = "file" name = "file" size = "10" />
+                                                            <br>
+
+                                                            <input type = "submit" value = "Upload" />
+                                                        </form>
+                                                    </td>
                                                 </c:when>
                                                 <c:otherwise>
                                                     <td>
-                                                        <form action="" method="post"
-                                                              enctype="multipart/form-data">
-                                                            <input type="file" name="file"/>
-                                                            <input type="submit" value="upload"/>
+                                                        <img src="images/${image}" alt="${image}" width="50px"
+                                                             height="50px"/>
+                                                        <form action = "UploadServlet?id=${product.productid}" method = "post"
+                                                              enctype = "multipart/form-data">
+                                                            <input type = "file" name = "file" size = "10" />
+                                                            <br>
+
+                                                            <input type = "submit" value = "Upload" />
                                                         </form>
                                                     </td>
+
                                                 </c:otherwise>
                                             </c:choose>
 
                                             <td><strong>$${product.productprice}</strong></td>
                                             <td>${product.categoryname}</td>
                                             <td class="text-right">
-                                                <button data-toggle="modal"
-                                                        data-target="#listCategory-${product.productid}">
-                                                    <i class="fas fa-info-circle"></i></button>
+<%--                                                <button data-toggle="modal"--%>
+<%--                                                        data-target="#listCategory-${product.productid}">--%>
+<%--                                                    <i class="fas fa-info-circle"></i></button>--%>
                                                 <c:set target="${requestScope.map}" property="${product.productid}"
                                                        value="${product.productid}"/>
 
                                                 <button data-toggle="modal"
-                                                        data-target="#editCategory-${product.productid}"><i
+                                                        data-target="#editProduct-${product.productid}"><i
                                                         class="fas fa-pencil-square-o"></i></button>
 
                                             </td>
