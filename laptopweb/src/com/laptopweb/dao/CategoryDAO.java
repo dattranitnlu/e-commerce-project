@@ -11,27 +11,6 @@ import com.laptopweb.connection.DBConnection;
 import com.laptopweb.model.Category;
 
 public class CategoryDAO {
-	public static List<Category> getCategories() {
-		List<Category> categories = new ArrayList<>();
-		
-		Connection conn = DBConnection.getConnection();
-		String sql = "SELECT * FROM CATEGORY;";
-		try {
-			PreparedStatement ps = conn.prepareCall(sql);
-			ResultSet rs = ps.executeQuery();
-			
-			while(rs.next()) {
-				Category ca = new Category();
-				ca.setCategoryID(rs.getInt("categoryid"));
-				ca.setCategoryName(rs.getString("categoryname"));
-				categories.add(ca);
-			}
-		} catch (SQLException e) {
-			e.printStackTrace();
-		}
-		
-		return categories;
-	}
 	
 	public static boolean insert(Category c) {
 		try {

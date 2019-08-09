@@ -10,24 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d848c51d-d5dd-4ae8-bd71-69c3285ed92d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WebContent/addUser.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/editUser.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/images/andy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/usersManagement.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/laptopweb/controller/AddUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/laptopweb/controller/UploadUserImageServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/laptopweb/dao/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/laptopweb/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/common/menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/common/menu.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/laptopweb/controller/EditCategoryServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/com/laptopweb/controller/EditCategoryServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/laptopweb/controller/EditProductServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/com/laptopweb/controller/EditProductServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/laptopweb/controller/UploadServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/com/laptopweb/controller/UploadServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/com/laptopweb/dao/ProductDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/com/laptopweb/dao/ProductDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/WEB-INF/classes/com/laptopweb/controller/EditCategoryServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/WEB-INF/classes/com/laptopweb/controller/EditCategoryServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/WEB-INF/classes/com/laptopweb/controller/EditProductServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/WEB-INF/classes/com/laptopweb/controller/EditProductServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/WEB-INF/classes/com/laptopweb/dao/ProductDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/WEB-INF/classes/com/laptopweb/dao/ProductDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/common/menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/common/menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/categoryManagement.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/categoryManagement.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/WEB-INF/classes/com/laptopweb/controller/AddUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/WEB-INF/classes/com/laptopweb/controller/AddUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/WEB-INF/classes/com/laptopweb/controller/UploadServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/WEB-INF/classes/com/laptopweb/controller/UploadServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/WEB-INF/classes/com/laptopweb/controller/UploadUserImageServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/WEB-INF/classes/com/laptopweb/controller/UploadUserImageServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/WEB-INF/classes/com/laptopweb/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/WEB-INF/classes/com/laptopweb/dao/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/WEB-INF/classes/com/laptopweb/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/laptopweb_Web_exploded/WEB-INF/classes/com/laptopweb/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/laptopweb/dao/CategoryDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/laptopweb/dao/CategoryDAO.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
@@ -57,40 +47,97 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/UploadServlet.java">
+        <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/UploadUserImageServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="94" column="59" selection-start-line="94" selection-start-column="59" selection-end-line="94" selection-end-column="59" />
+            <state relative-caret-position="216">
+              <caret line="93" column="12" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/UploadUserImageServlet.java">
+        <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="96" column="57" lean-forward="true" selection-start-line="96" selection-start-column="57" selection-end-line="96" selection-end-column="57" />
+            <state relative-caret-position="90">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/EditCategoryServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/categoryManagement.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/EditProductServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
               <folding>
-                <element signature="e#2340#2370#1" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/usersManagement.jsp">
+        <entry file="file://$PROJECT_DIR$/src/com/laptopweb/connection/DBConnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="844">
-              <caret line="107" column="60" lean-forward="true" selection-start-line="107" selection-start-column="60" selection-end-line="107" selection-end-column="60" />
+            <state relative-caret-position="18">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/editProduct.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="71" column="54" selection-start-line="71" selection-start-column="46" selection-end-line="71" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/common/header.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="174" column="22" selection-start-line="174" selection-start-column="22" selection-end-line="174" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/laptopweb/dao/ProductDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-657">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/laptopweb/dao/UserDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+            <state relative-caret-position="846">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,9 +175,7 @@
         <option value="$PROJECT_DIR$/WebContent/addCategory.jsp" />
         <option value="$PROJECT_DIR$/WebContent/listCategory.jsp" />
         <option value="$PROJECT_DIR$/src/com/laptopweb/controller/RedirectIndexServlet.java" />
-        <option value="$PROJECT_DIR$/WebContent/categoryManagement.jsp" />
         <option value="$PROJECT_DIR$/WebContent/listProducts.jsp" />
-        <option value="$PROJECT_DIR$/src/com/laptopweb/dao/CategoryDAO.java" />
         <option value="$PROJECT_DIR$/src/com/laptopweb/model/Category.java" />
         <option value="$PROJECT_DIR$/WebContent/editCategory.jsp" />
         <option value="$PROJECT_DIR$/WebContent/common/cc.jsp" />
@@ -154,6 +199,8 @@
         <option value="$PROJECT_DIR$/WebContent/addUser.jsp" />
         <option value="$PROJECT_DIR$/src/com/laptopweb/dao/UserDAO.java" />
         <option value="$PROJECT_DIR$/src/com/laptopweb/controller/UploadUserImageServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/laptopweb/dao/CategoryDAO.java" />
+        <option value="$PROJECT_DIR$/WebContent/categoryManagement.jsp" />
       </list>
     </option>
   </component>
@@ -176,6 +223,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,45 +239,12 @@
             <path>
               <item name="laptopweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laptopweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laptopweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laptopweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laptopweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laptopweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laptopweb" type="462c0819:PsiDirectoryNode" />
               <item name="WebContent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -406,16 +421,18 @@
       <workItem from="1564894397330" duration="2945000" />
       <workItem from="1564900218962" duration="4948000" />
       <workItem from="1564906535932" duration="16381000" />
+      <workItem from="1565281733296" duration="639000" />
+      <workItem from="1565338417062" duration="1912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70324000" />
+    <option name="totallyTimeSpent" value="72875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8594104" visible="true" weight="0.18986385" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8594104" visible="true" weight="0.19591528" />
       <window_info id="Structure" order="1" sideWeight="0.19422573" side_tool="true" weight="0.17019667" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -425,7 +442,7 @@
       <window_info id="Web" order="7" sideWeight="0.14058957" side_tool="true" weight="0.18986385" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2782324" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23076923" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -540,13 +557,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/categoryManagement.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="102" column="50" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/006a1563-0bc2-4574-8acf-0e63fa66b855/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -563,13 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="29" column="30" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="29" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/laptopweb/dao/CategoryDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="40" column="42" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -630,27 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/EditCategoryServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
-          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/common/header.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="174" column="22" selection-start-line="174" selection-start-column="22" selection-end-line="174" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="25" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/productsManagement.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -662,13 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/editProduct.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="89" column="41" lean-forward="true" selection-start-line="74" selection-start-column="32" selection-end-line="89" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -724,16 +699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/EditProductServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="17" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/AddProductServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -748,30 +713,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/AddUserServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="33" column="36" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/addUser.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1046">
           <caret line="76" column="87" selection-start-line="76" selection-start-column="79" selection-end-line="76" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/laptopweb/dao/ProductDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="55" column="5" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="55" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -782,27 +727,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/UploadUserImageServlet.java">
+    <entry file="file://$PROJECT_DIR$/WebContent/usersManagement.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="96" column="57" lean-forward="true" selection-start-line="96" selection-start-column="57" selection-end-line="96" selection-end-column="57" />
-          <folding>
-            <element signature="e#2340#2370#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="1926">
+          <caret line="107" column="60" selection-start-line="107" selection-start-column="60" selection-end-line="107" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/usersManagement.jsp">
+    <entry file="file://$PROJECT_DIR$/src/com/laptopweb/dao/CategoryDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="844">
-          <caret line="107" column="60" lean-forward="true" selection-start-line="107" selection-start-column="60" selection-end-line="107" selection-end-column="60" />
+        <state relative-caret-position="-90">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/laptopweb/dao/ProductDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-657">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/laptopweb/dao/UserDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        <state relative-caret-position="846">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/AddUserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="37" column="45" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/UploadUserImageServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="93" column="12" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/EditCategoryServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/editProduct.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="71" column="54" selection-start-line="71" selection-start-column="46" selection-end-line="71" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/common/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="174" column="22" selection-start-line="174" selection-start-column="22" selection-end-line="174" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/laptopweb/connection/DBConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/categoryManagement.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/laptopweb/controller/EditProductServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

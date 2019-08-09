@@ -51,6 +51,7 @@
                                     <sql:query var="result" dataSource="${root}">
                                         SELECT * FROM CATEGORY;
                                     </sql:query>
+
                                     <tbody>
                                     <jsp:useBean id="map" class="java.util.HashMap" scope="request"/>
                                     <c:set var="index" value="${1}"></c:set>
@@ -102,6 +103,7 @@
     <jsp:include page="listCategory.jsp?categoryid=${item.value}"/>
     <jsp:include page="editCategory.jsp?categoryid=${item.value}"/>
 </c:forEach>
+
 <jsp:include page="common/linkjs.jsp"/>
 </body>
 
