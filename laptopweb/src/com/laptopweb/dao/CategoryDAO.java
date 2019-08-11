@@ -15,13 +15,14 @@ public class CategoryDAO {
 	public static boolean insert(Category c) {
 		try {
 	         Connection connection = DBConnection.getConnection();
-	         String sql = "INSERT INTO category VALUE(?,?)";
+	         String sql = "INSERT INTO category VALUES(?, ?)";
 	         PreparedStatement ps = connection.prepareCall(sql);
 	         ps.setLong(1, c.getCategoryID());
 	         ps.setString(2, c.getCategoryName());
 	         int temp = ps.executeUpdate();
 	         return temp == 1;
 	    } catch (Exception e) {
+			System.out.println(c.getCategoryID());
 	         return false;
 	    }
 	}
@@ -38,5 +39,12 @@ public class CategoryDAO {
 		} catch (Exception e) {
 			return false;
 		}
+	}
+
+	public static void main(String[] args) {
+		Category cate = new Category();
+		cate.setCategoryID(2);
+		cate.setCategoryName("Dell");
+		System.out.println(insert(cate));
 	}
 }

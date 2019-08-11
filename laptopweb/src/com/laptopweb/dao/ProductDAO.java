@@ -11,12 +11,13 @@ public class ProductDAO {
     public static boolean insert(Product p) {
         try {
             Connection connection = DBConnection.getConnection();
-            String sql = "INSERT INTO product(productname, productprice, productdescription, categoryid) VALUES(?,?,?,?)";
+            String sql = "INSERT INTO product(productid, productname, productprice, productdescription, categoryid) VALUES(?,?,?,?,?)";
             PreparedStatement ps = connection.prepareCall(sql);
-            ps.setString(1, p.getProductName());
-            ps.setDouble(2, p.getProductPrice());
-            ps.setString(3, p.getProductDescription());
-            ps.setInt(4, p.getCategoryID());
+            ps.setInt(1, p.getProductID());
+            ps.setString(2, p.getProductName());
+            ps.setDouble(3, p.getProductPrice());
+            ps.setString(4, p.getProductDescription());
+            ps.setInt(5, p.getCategoryID());
             int temp = ps.executeUpdate();
             
             return temp == 1;
@@ -60,6 +61,6 @@ public class ProductDAO {
         p.setProductID(654546);
         p.setProductImage("a");
 
-        System.out.println(updateImage(p));
+        System.out.println(insert(p));
     }
 }

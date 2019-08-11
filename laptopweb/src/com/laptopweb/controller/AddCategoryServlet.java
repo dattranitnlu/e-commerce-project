@@ -27,9 +27,11 @@ public class AddCategoryServlet extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 
+		String categoryid = request.getParameter("categoryid");
 		String name = request.getParameter("category");
 
 		Category category = new Category();
+		category.setCategoryID(Integer.parseInt(categoryid));
 		category.setCategoryName(name);
 		System.out.println(CategoryDAO.insert(category));
 

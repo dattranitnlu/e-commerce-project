@@ -8,8 +8,8 @@ public class DBConnection {
 		Connection conn = null;
 		
 		try {
-			Class.forName("com.mysql.jdbc.Driver");
-			conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/lapshop", "root", "root");
+			Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
+			conn = DriverManager.getConnection("jdbc:sqlserver://den1.mssql8.gear.host;databaseName=lapshop", "lapshop", "Kq9lPD!D?9L4");
 			System.out.println("success");
 		}catch(Exception e) {
 			System.out.println("Failed");

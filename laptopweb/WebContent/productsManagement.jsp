@@ -51,9 +51,9 @@
                                     </tr>
                                     </thead>
 
-                                    <sql:setDataSource var="root" driver="com.mysql.jdbc.Driver"
-                                                       url="jdbc:mysql://localhost:3306/lapshop" user="root"
-                                                       password="root"/>
+                                    <sql:setDataSource var="root" driver="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+                                                       url="jdbc:sqlserver://den1.mssql8.gear.host;databaseName=lapshop" user="lapshop"
+                                                       password="Kq9lPD!D?9L4"/>
                                     <sql:query var="result" dataSource="${root}">
                                         SELECT *
                                         FROM PRODUCT P, CATEGORY C

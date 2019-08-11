@@ -36,5 +36,6 @@
     <orderEntry type="library" name="commons-fileupload-1.2.2" level="project" />
     <orderEntry type="library" name="commons-io-2.4" level="project" />
     <orderEntry type="library" name="cos" level="project" />
+    <orderEntry type="library" name="sqljdbc42" level="project" />
   </component>
 </module>

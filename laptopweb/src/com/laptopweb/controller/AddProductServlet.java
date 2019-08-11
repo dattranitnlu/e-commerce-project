@@ -13,14 +13,14 @@ import com.laptopweb.model.Product;
 @WebServlet("/AddProductServlet")
 public class AddProductServlet extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-//        String id = request.getParameter("productid");
+        String id = request.getParameter("productid");
         String name = request.getParameter("productname");
         String price = request.getParameter("productprice");
         String description = request.getParameter("productdescription");
         String type = request.getParameter("categorytype");
 
         Product p = new Product();
-//        p.setProductID(Integer.parseInt(id));
+        p.setProductID(Integer.parseInt(id));
         p.setProductName(name);
         p.setProductPrice(Double.parseDouble(price));
         p.setProductDescription(description);

@@ -17,6 +17,16 @@
                 <form action="AddCategoryServlet" method="post" class="form-horizontal">
                     <!-- Modal body -->
                     <div class="modal-body">
+                        <div class="row form-group">
+                            <div class="col col-md-3">
+                                <label class=" form-control-label">Category ID</label>
+                            </div>
+                            <div class="col-12 col-md-9">
+                                <input type="text" name="categoryid" placeholder="Category id..."
+                                       class="form-control">
+                                <span class="help-block"></span>
+                            </div>
+                        </div>
 
                         <div class="row form-group">
                             <div class="col col-md-3">
